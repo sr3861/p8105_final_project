@@ -1,0 +1,87 @@
+File Manifest for ICPSR 4572
+
+United States. Bureau of Justice Statistics. Survey of Inmates in State and
+Federal Correctional Facilities, [United States], 2004. ICPSR04572-v6. Ann
+Arbor, MI: Inter-university Consortium for Political and Social Research
+[distributor], 2019-12-12. http://doi.org/10.3886/ICPSR04572.v6
+
+Details on the version history can be found below the file listings.
+
+
+Study-level Documentation
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    04572-descriptioncitation.pdf       -       -         -       2019-12-12  -
+
+    04572-related_literature.txt        -       -         -       daily       -
+
+    04572-manifest.txt                  -       -         -       daily       -
+
+    04572-Documentation-sas_syntax_from_PI.xlsx -       -         -       2018-06-12  7d9d2d567e350436b68bb6f29307a1a9
+
+    04572-User_guide.pdf                -       -         -       2018-12-13  f8865a7ddfb165202157ca004c9b6c44
+
+
+DS0001 Federal Data
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    04572-0001-Codebook.pdf             -       -         -       2019-12-12  4d7b3d53a5e075ff7842143edfe3e037
+
+    04572-0001-Data.rda                 -       3,686     3374    2018-06-12  8de732e3a314232f661c9d1ee1b39b00
+
+    04572-0001-Data.sav                 -       3,686     3374    2018-06-12  3c42c53d6d1095cf82bfc3c5f2ad2697
+
+    04572-0001-Data.stc                 -       3,686     3374    2018-06-12  15b7ef4d7569c94f336d6857e186d563
+
+    04572-0001-Data.tsv                 -       3,686     3374    2018-06-12  618c2c60ae3589bf0a10b376552a7a58
+
+    04572-0001-Data.txt                 11386   3,686     3374    2018-06-12  1654d936a0a38c9adadc064309ef2194
+
+    04572-0001-Setup.sas                -       -         -       2018-06-12  c6955e2a8060c9acb26f982bda323252
+
+    04572-0001-Setup.sps                -       -         -       2018-06-12  0c970a048a4ebddf35aff85016c0da5c
+
+    04572-0001-Supplemental_syntax.sas  -       -         -       2018-06-12  0f87b920435b837bedaf0453b67ccfdf
+
+
+DS0002 State Data
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    04572-0002-Codebook.pdf             -       -         -       2019-12-12  ecaa702f088e8de56787b850f379a013
+
+    04572-0002-Data.rda                 -       14,499    3374    2018-06-12  391585ef1726f483cd05a84c48c1d42c
+
+    04572-0002-Data.sav                 -       14,499    3374    2018-06-12  70d99c10e1aafe1f9ca53867dbf7b392
+
+    04572-0002-Data.stc                 -       14,499    3374    2018-06-12  fda2487fa7cfcfaaefca2fd7fdb72ab0
+
+    04572-0002-Data.tsv                 -       14,499    3374    2018-06-12  78141dc3e9d24818d2dd20431fcada19
+
+    04572-0002-Data.txt                 11391   14,499    3374    2018-06-12  638d476bd0412a4d44a92a275964fc07
+
+    04572-0002-Setup.sas                -       -         -       2018-06-12  02bdbecffdfa173fd1c2f4bd6069a12e
+
+    04572-0002-Setup.sps                -       -         -       2018-06-12  e281a8afc8b369a5c08d7776bfa7c2bb
+
+    04572-0002-Supplemental_syntax.sas  -       -         -       2018-06-12  a9d7e8e9fb544380c5a8dfdbef9d968f
+
+
+Version History
+
+2019-12-12 The variable groupings in the codebook for DS0002 have been
+updated.  2018-12-19 The DDI files have been updated to provide frequencies
+and summary statistics in the Social Science Variables Database.  2018-12-
+13 Pages 3 and 4 of the User Guide have been updated.  2018-06-12 Part 1
+data combine DS0001 (federal numeric data) and DS0003 (federal analysis
+variables) from the previous version; Part 2 data combine DS0002 (state
+numeric data) and DS0004 (state analysis variables) from the previous
+version.  2016-04-27 Datasets 0003 and 0004 were added. They contain
+analysis variables corresponding to the Federal and State datasets. The
+analysis variables are useful in replicating results reported by the Bureau
+of Justice Statistics.

@@ -1,0 +1,2228 @@
+Bibliography
+Survey of Inmates in State and Federal Correctional Facilities, [United
+States], 2004
+
+This bibliography includes published and unpublished works that are related 
+to ICPSR study 4572. It includes works that are based on primary
+or secondary analysis of the data, or which describe or critique those
+data or the collection methodology. 
+
+If you publish a work or know of other works that are based on these data,
+please send the complete citation and name of the ICPSR study used to:
+icpsr-biblio-notify@umich.edu 
+
+
+1. Aday, Ronald H.; Dye, Meredith H.; Kaiser, Amanda K., "Examining the
+traumatic effects of sexual victimization on the health of incarcerated
+women." Women and Criminal Justice. 2014, 24, (4), 341 - 361. DOI:
+10.1080/08974454.2014.909758
+
+2. Ainsworth, Stephanie A.; Taxman, Faye S., "Creating simulation parameter
+inputs with existing data sources: Estimating offender risks, needs, and
+recidivism." In Taxman, Faye S.; Pattavina, April, Simulation Strategies to
+Reduce Recidivism: Risk Need Responsibility (RNR) Modeling for the Criminal
+Justice System. 115 - 142, New York, NY: Springer New York,2013. DOI:
+10.1007/978-1-4614-6188-3_5
+
+3. Anderson, Claudia N.; Cochran, Joshua C.; Toman, Elisa L., "Social
+capital and its impacts on prison life: Is visitation a conduit?." Crime
+and Delinquency. Apr 2022, 68, (4), 644 - 683. DOI:
+10.1177/0011128720977445
+
+4. Azimi, Andia M.; Daquin, Jane C.; Hoppe, Susan J., "Identifying poly-
+victimization among prisoners: An application of latent class analysis."
+Journal of Interpersonal Violence. in press 2019,. DOI:
+10.1177/0886260519876021
+
+5. Beatty, Lauren G.; Snell, Tracy L., "Profile of Prison Inmates, 2016."
+Special Report. NCJ 255037, Washington, DC: Bureau of Justice Statistics,
+Dec 2021.
+Full text PDF: https://bjs.ojp.gov/content/pub/pdf/ppi16.pdf
+
+6. Beck, Allen J.; Blumstein, Alfred, "Racial disproportionality in U.S.
+state prisons: Accounting for the effects of racial and ethnic differences
+in criminal involvement, arrests, sentencing, and time served." Journal of
+Quantitative Criminology. Sep 2018, 34, (3), 853 - 883. DOI:
+10.1007/s10940-017-9357-6
+Full text PDF: https://bjs.ojp.gov/content/pub/pdf/ppi16.pdf
+
+7. Belenko, Steven; Houser, Kimberly A., "Gender differences in prison-
+based drug treatment participation." International Journal of Offender
+Therapy and Comparative Criminology. Aug 2012, 56, (5), 790 - 810. DOI:
+10.1177/0306624X11414544
+Full text PDF: https://bjs.ojp.gov/content/pub/pdf/ppi16.pdf
+
+8. Belenko, Steven; Houser, Kimberly A.; Welsh, Wayne, "Understanding the
+impact of drug treatment in correctional settings." In Petersilia, Joan;
+Reitz, Kevin R., The Oxford Handbook of Sentencing and Corrections. The
+Oxford Handbooks in Criminology and Criminal Justice. 463 - 491, New York,
+NY: Oxford University Press,2012.
+Full text PDF: https://bjs.ojp.gov/content/pub/pdf/ppi16.pdf
+
+9. Belenko, Steven; Welsh, Wayne; Houser, Kimberly, "Alcohol consumption,
+violent crime, and victim injury among state prison inmates." Presented at
+the American Society of Criminology 2008 Annual Meeting, American Society
+of Criminology, St. Louis, MO, Nov 12, 2008.
+Full text PDF: https://bjs.ojp.gov/content/pub/pdf/ppi16.pdf
+
+10. Benning, Carin L.; Lahm, Karen F., "Effects of parent-child
+relationships on inmate behavior: A comparison of male and female inmates."
+International Journal of Offender Therapy and Comparative Criminology. Sep
+2015, 60, (2), 189 - 207. DOI: 10.1177/0306624X14551402
+Full text PDF: https://bjs.ojp.gov/content/pub/pdf/ppi16.pdf
+
+11. Bhati, Avinash; Crites, Erin L.; Taxman, Faye S., "RNR simulation tool:
+A synthetic datasets and its uses for policy simulations." In Taxman, Faye
+S.; Pattavina, April, Simulation Strategies to Reduce Recidivism: A
+Synthetic Datasets and Its Uses for Policy Simulations. 197 - 221, New
+York, NY: Springer,2013. DOI: 10.1007/978-1-4614-6188-3_8
+Full text PDF: https://bjs.ojp.gov/content/pub/pdf/ppi16.pdf
+
+12. Bineham, Molly, "Identifying the Cost of Preventable Chronic Disease in
+Prison: Can Illness Prevention of Adults in Custody Save Money?." Thesis,
+Portland State University, 2021.
+Full text PDF: https://pdxscholar.library.pdx.edu/cgi/viewcontent.cgi?article=6786&context=open_access_etds
+
+13. Binswanger, Ingrid A.; Carson, E. Ann; Krueger, Patrick M.; Mueller,
+Shane R.; Steiner, John F.; Sabol, William J., "Prison tobacco control
+policies and deaths from smoking United States prisons: Population based
+retrospective analysis." BMJ. 2014, 349, (g4542),. DOI: 10.1136/bmj.g4542
+Full text PDF: https://pdxscholar.library.pdx.edu/cgi/viewcontent.cgi?article=6786&context=open_access_etds
+
+14. Binswanger, Ingrid A.; Carson, Elizabeth A.; Krueger, Patrick; Mueller,
+Shane; Sabol, William J., "Smoking-attributable mortality among state
+prisoners in the United States: 2001-2009." Presented at the 36th Annual
+Meeting of the Society of General Internal Medicine, Society of General
+Internal Medicine, Denver, CO, 2013. DOI: 10.1007/s11606-013-2436-y
+Full text PDF: https://pdxscholar.library.pdx.edu/cgi/viewcontent.cgi?article=6786&context=open_access_etds
+
+15. Binswanger, Ingrid A.; Krueger, Patrick M.; Steiner, John F.,
+"Prevalence of chronic medical conditions among jail and prison inmates in
+the United States compared with the general population." Journal of
+Epidemiology and Community Health. Nov 2009, 63,. DOI:
+10.1136/jech.2009.090662
+Full text PDF: https://pdxscholar.library.pdx.edu/cgi/viewcontent.cgi?article=6786&context=open_access_etds
+
+16. Boice, Ashley, "Exploration of Juvenile Serial Homicide Offender
+Characteristics." Thesis, California Baptist University, 2020.
+Full text PDF: https://pdxscholar.library.pdx.edu/cgi/viewcontent.cgi?article=6786&context=open_access_etds
+
+17. Bouchery, Ellen E.; Harwood, Henrick J.; Sacks, Jeffrey J.; Simon,
+Carol J.; Brewer, Robert D., "Economic costs of excessive alcohol
+consumption in the U.S., 2006." American Journal of Preventive Medicine.
+Nov 2011, 41, (5), 516 - 524. DOI: 10.1016/j.amepre.2011.06.045
+Full text PDF: https://pdxscholar.library.pdx.edu/cgi/viewcontent.cgi?article=6786&context=open_access_etds
+
+18. Britton, Dana M., The Gender of Crime. New York, NY: Rowman and
+Littlefield Publishers, 2011.
+Full text PDF: https://pdxscholar.library.pdx.edu/cgi/viewcontent.cgi?article=6786&context=open_access_etds
+
+19. Brockmann, Brad; Rich, Josiah D., "Incarceration and community health."
+Communities and Banking. Fal 2012, 23, (4), 27 - 29.
+Full text PDF: https://pdxscholar.library.pdx.edu/cgi/viewcontent.cgi?article=6786&context=open_access_etds
+
+20. Bronson, Jennifer; Carson, E.A., "Prisoners in 2017." Bulletin. NCJ
+252156, Washington, DC: Bureau of Justice Statistics, Apr 2019.
+Abstract: http://www.bjs.gov/index.cfm?ty=pbdetail&iid=6546
+Full text PDF: https://www.bjs.gov/content/pub/pdf/p17.pdf
+
+21. Bronson, Jennifer; Carson, E.A.; Noonan, Margaret; Berzofsky, Marcus,
+"Veterans in Prison and Jail, 2011-12." Special Report. NCJ 249144,
+Washington, DC: U.S. Department of Justice, Office of Justice Programs,
+Bureau of Justice Statistics, Dec 2015.
+Abstract: http://www.bjs.gov/index.cfm?ty=pbdetail&iid=5479&utm_source=juststats-120715&utm_medium=email&utm_content=VPJ1112%20Head&utm_campaign=juststats&ed2f26df2d9c416fbddddd2330a778c6=hewdaysbej-hsypsedy
+Full text: http://www.bjs.gov/content/pub/ascii/vpj1112.txt
+Full text PDF: http://www.bjs.gov/content/pub/pdf/vpj1112.pdf
+Presents counts and rates of veterans in state and federal prison and local
+jail in 2011 and 2012. This report describes incarcerated veterans by
+demographic characteristics, military characteristics, and disability and
+mental health status. It describes current offense, sentencing, and
+criminal history characteristics by veteran status. It also examines combat
+experience associated with lifetime mental health disorders among
+incarcerated veterans. Findings are based on data from the National Inmate
+Survey, conducted between February 2011 and May 2012. Data from previous
+BJS surveys of inmates in prison and jail are used to establish historical
+trends regarding incarcerated veterans.
+
+22. Bronson, Jennifer; Stroop, Jessica; Zimmer, Stephanie; Berzofsky,
+Marcus, "Drug Use, Dependence, and Abuse Among State Prisoners and Jail
+Inmates, 2007-2009." Special Report. NCJ 250546, Washington, DC: Bureau of
+Justice Statistics, Jun 2017.
+Abstract: https://www.ncjrs.gov/app/publications/abstract.aspx?id=272712
+Full text: https://www.bjs.gov/content/pub/ascii/dudaspji0709.txt
+Full text PDF: https://www.bjs.gov/content/pub/pdf/dudaspji0709.pdf
+Fifty-eight percent of State prisoners and 63 percent of sentenced jail
+inmates met the criteria for drug dependence or abuse during 2007-09, as
+defined by the Diagnostic and Statistical Manual of Mental Disorders,
+Fourth Edition (DSM-IV). In comparison, approximately 5 percent of the
+total general population age 18 or older met the DSM-IV criteria for drug
+dependence or abuse during this period. Overall, both State inmates (63
+percent) and jail inmates (64 percent) regularly used marijuana/hashish
+more than any other drugs prior to incarceration. This was followed by
+cocaine/crack (24 percent of State inmates and 38 percent of jail inmates).
+Fewer State inmates (42 percent) and Jail inmates (37 percent) reported
+using drugs at the time of their offense. Sixty-nine percent of female
+State inmates and 72 percent of jail inmates met the DSM-IV criteria for
+drug dependence or abuse, compared to 57 percent of males in State prison
+and 62 percent of jail inmates. Drug dependence for State inmates and jail
+inmates is also reported by inmate age and race/ethnicity (Hispanics and
+non-Hispanic White or Black inmates). Twenty-eight percent of State inmates
+and 22 percent of sentenced jail inmates who met the criteria for drug
+dependence or abuse participated in a drug treatment program since
+admission to their current facility. 1 table
+
+23. Brooke, Erika J., "Service experience varies: Exploring the association
+between military service and prison misconduct among state inmates."
+Corrections. in press 2018,. DOI: 10.1080/23774657.2018.1542284
+Abstract: https://www.ncjrs.gov/app/publications/abstract.aspx?id=272712
+Full text: https://www.bjs.gov/content/pub/ascii/dudaspji0709.txt
+Full text PDF: https://www.bjs.gov/content/pub/pdf/dudaspji0709.pdf
+Fifty-eight percent of State prisoners and 63 percent of sentenced jail
+inmates met the criteria for drug dependence or abuse during 2007-09, as
+defined by the Diagnostic and Statistical Manual of Mental Disorders,
+Fourth Edition (DSM-IV). In comparison, approximately 5 percent of the
+total general population age 18 or older met the DSM-IV criteria for drug
+dependence or abuse during this period. Overall, both State inmates (63
+percent) and jail inmates (64 percent) regularly used marijuana/hashish
+more than any other drugs prior to incarceration. This was followed by
+cocaine/crack (24 percent of State inmates and 38 percent of jail inmates).
+Fewer State inmates (42 percent) and Jail inmates (37 percent) reported
+using drugs at the time of their offense. Sixty-nine percent of female
+State inmates and 72 percent of jail inmates met the DSM-IV criteria for
+drug dependence or abuse, compared to 57 percent of males in State prison
+and 62 percent of jail inmates. Drug dependence for State inmates and jail
+inmates is also reported by inmate age and race/ethnicity (Hispanics and
+non-Hispanic White or Black inmates). Twenty-eight percent of State inmates
+and 22 percent of sentenced jail inmates who met the criteria for drug
+dependence or abuse participated in a drug treatment program since
+admission to their current facility. 1 table
+
+24. Brooke, Erika J.; Gau, Jacinta M., "Military service and lifetime
+arrests: Examining the effects of the total military experience on arrests
+in a sample of prison inmates." Criminal Justice Policy Review. Feb 2018,
+29, (1), 24 - 44. DOI: 10.1177/0887403415619007
+Abstract: https://www.ncjrs.gov/app/publications/abstract.aspx?id=272712
+Full text: https://www.bjs.gov/content/pub/ascii/dudaspji0709.txt
+Full text PDF: https://www.bjs.gov/content/pub/pdf/dudaspji0709.pdf
+Fifty-eight percent of State prisoners and 63 percent of sentenced jail
+inmates met the criteria for drug dependence or abuse during 2007-09, as
+defined by the Diagnostic and Statistical Manual of Mental Disorders,
+Fourth Edition (DSM-IV). In comparison, approximately 5 percent of the
+total general population age 18 or older met the DSM-IV criteria for drug
+dependence or abuse during this period. Overall, both State inmates (63
+percent) and jail inmates (64 percent) regularly used marijuana/hashish
+more than any other drugs prior to incarceration. This was followed by
+cocaine/crack (24 percent of State inmates and 38 percent of jail inmates).
+Fewer State inmates (42 percent) and Jail inmates (37 percent) reported
+using drugs at the time of their offense. Sixty-nine percent of female
+State inmates and 72 percent of jail inmates met the DSM-IV criteria for
+drug dependence or abuse, compared to 57 percent of males in State prison
+and 62 percent of jail inmates. Drug dependence for State inmates and jail
+inmates is also reported by inmate age and race/ethnicity (Hispanics and
+non-Hispanic White or Black inmates). Twenty-eight percent of State inmates
+and 22 percent of sentenced jail inmates who met the criteria for drug
+dependence or abuse participated in a drug treatment program since
+admission to their current facility. 1 table
+
+25. Brooke, Erika J.; Peck, Jennifer H., "Does the military make the
+(wo)man? An examination of gender differences among incarcerated veterans."
+Crime and Delinquency. Dec 2019, 65, (14), 1925 - 1948. DOI:
+10.1177/0011128718779570
+Abstract: https://www.ncjrs.gov/app/publications/abstract.aspx?id=272712
+Full text: https://www.bjs.gov/content/pub/ascii/dudaspji0709.txt
+Full text PDF: https://www.bjs.gov/content/pub/pdf/dudaspji0709.pdf
+Fifty-eight percent of State prisoners and 63 percent of sentenced jail
+inmates met the criteria for drug dependence or abuse during 2007-09, as
+defined by the Diagnostic and Statistical Manual of Mental Disorders,
+Fourth Edition (DSM-IV). In comparison, approximately 5 percent of the
+total general population age 18 or older met the DSM-IV criteria for drug
+dependence or abuse during this period. Overall, both State inmates (63
+percent) and jail inmates (64 percent) regularly used marijuana/hashish
+more than any other drugs prior to incarceration. This was followed by
+cocaine/crack (24 percent of State inmates and 38 percent of jail inmates).
+Fewer State inmates (42 percent) and Jail inmates (37 percent) reported
+using drugs at the time of their offense. Sixty-nine percent of female
+State inmates and 72 percent of jail inmates met the DSM-IV criteria for
+drug dependence or abuse, compared to 57 percent of males in State prison
+and 62 percent of jail inmates. Drug dependence for State inmates and jail
+inmates is also reported by inmate age and race/ethnicity (Hispanics and
+non-Hispanic White or Black inmates). Twenty-eight percent of State inmates
+and 22 percent of sentenced jail inmates who met the criteria for drug
+dependence or abuse participated in a drug treatment program since
+admission to their current facility. 1 table
+
+26. Bushway, Shawn D.; Tsao, Hui-Shien; Smith, Herbert L., "Has the U.S.
+Prison Boom Changed the Age Distribution of the Prison Population?." Jun
+2011.
+Full text PDF: http://www.irp.wisc.edu/newsevents/workshops/2011/participants/papers/6-BushwayTsaoSmith.pdf
+
+27. Bushway, Shawn; Tsao, Hi-Shien; Smith, Herbert L., "Has the U.S. Prison
+Boom Changed the Age-Distribution of the Prison Population?." Presented at
+the Population Association of America 2012 Annual Meeting, San Francisco,
+CA, May 3-5, 2012.
+Abstract: http://paa2012.princeton.edu/abstracts/121877
+Full text PDF: http://paa2012.princeton.edu/papers/121877
+
+28. Butler, H. Daniel; Steiner, Benjamin, "Examining the use of
+disciplinary segregation within and across prisons." Justice Quarterly.
+2017, 34, (2), 248 - 271. DOI: 10.1080/07418825.2016.1162319
+Abstract: http://paa2012.princeton.edu/abstracts/121877
+Full text PDF: http://paa2012.princeton.edu/papers/121877
+
+29. Butler, H.D., "An examination of inmate adjustment stratified by time
+served in prison." Journal of Criminal Justice. in press 2019,. DOI:
+10.1016/j.jcrimjus.2019.101628
+Abstract: http://paa2012.princeton.edu/abstracts/121877
+Full text PDF: http://paa2012.princeton.edu/papers/121877
+
+30. Butler, H.D., "Improving Model Specification in Quantitative Studies of
+Inmate Deviance." Dissertation, University of Nebraska, 2018.
+Abstract: http://paa2012.princeton.edu/abstracts/121877
+Full text PDF: http://paa2012.princeton.edu/papers/121877
+
+31. Butler, H.D., "Understanding how in-prison experiences influence female
+offenders' maladjustment to prison." Justice Quarterly. in press 2020,.
+DOI: 10.1080/07418825.2019.1703026
+Abstract: http://paa2012.princeton.edu/abstracts/121877
+Full text PDF: http://paa2012.princeton.edu/papers/121877
+
+32. CSR Incorporated, "Alcohol Epidemiologic Data Directory." annotated
+list of data sets. Arlington, VA: National Institute on Alcohol Abuse and
+Alcoholism, June 2007.
+Full text: http://pubs.niaaa.nih.gov/publications/2007DataDirectory/2007DataDirectory.htm#63
+Full text PDF: http://pubs.niaaa.nih.gov/publications/2007DataDirectory/2007%20Data%20Directory.pdf
+
+33. Cain, Calli M.; Steiner, Benjamin; Wright, Emily M., "Nonstranger
+victimization and inmate maladjustment: Is the relationship gendered?."
+Criminal Justice and Behavior. Aug 2016, 43, (8), 992 - 1017. DOI:
+10.1177/0093854816647408
+Full text: http://pubs.niaaa.nih.gov/publications/2007DataDirectory/2007DataDirectory.htm#63
+Full text PDF: http://pubs.niaaa.nih.gov/publications/2007DataDirectory/2007%20Data%20Directory.pdf
+
+34. Campaign for Youth Justice, "Jailing Juveniles: The dangers of
+incarcerating youth in adult jails in America." Washington, DC: Campaign
+for Youth Justice, Nov 2007.
+Full text PDF: http://www.campaignforyouthjustice.org/Downloads/NationalReportsArticles/
+
+35. Canady, Valerie A., "Lack of MH care in prisons suggests need for
+better screening." Mental Health Weekly. Jan 19, 2015, 25, (3), 3 - 4. DOI:
+10.1002/mhw.30042
+Full text PDF: http://www.campaignforyouthjustice.org/Downloads/NationalReportsArticles/
+
+36. Carson, E. Ann, "Prisoners in 2014." Bulletin. NCJ 248955, Washington,
+DC: Bureau of Justice Statistics, Sep 2015.
+Abstract: http://www.bjs.gov/index.cfm?ty=pbdetail&iid=5387&utm_source=juststats-091715&utm_medium=email&utm_content=Prisoners%20Head&utm_campaign=juststats&ed2f26df2d9c416fbddddd2330a778c6=ywjwjjfpp-yqmvqdzm
+Full text: http://www.bjs.gov/content/pub/ascii/p14.txt
+Full text PDF: http://www.bjs.gov/content/pub/pdf/p14.pdf
+Presents final counts of prisoners under the jurisdiction of state and
+federal correctional authorities on December 31, 2014, collected by the
+National Prisoner Statistics program. This report includes the number of
+prison admissions, releases, noncitizen inmates, and inmates age 17 or
+younger in the custody of state or federal prisons. It presents prison
+capacity for each state and the Federal Bureau of Prisons (BOP), examines
+the use of private prisons by state and the BOP from 1999 to 2014, and
+describes the offense and demographic characteristics of yearend federal
+and state prison populations. The report also includes yearend counts for
+territorial and military correctional populations.
+
+37. Carson, E.A., "Mortality in State and Federal Prisons, 2001-2018."
+Statistical Tables. NCJ 255970, Washington, DC: Bureau of Justice
+Statistics, Apr 2021.
+Abstract: https://www.bjs.gov/index.cfm?iid=7387&ty=pbdetail&utm_content=apr2021&utm_medium=email&utm_source=govdelivery
+Full text PDF: https://www.bjs.gov/content/pub/pdf/msfp0118st.pdf
+This Bureau of Justice Statistics (BJS) report presents detailed
+statistical tables on mortality in state and federal prisons. It provides
+information on cause of death; decedent characteristics, such as age,
+gender, and race or ethnicity; and mortality rates of inmate populations,
+compared to the general U.S. adult population. The report is based on BJS’s
+annual Mortality in Correctional Institutions data collection, which
+obtains information on persons who died while in the physical custody of
+state departments of corrections.
+
+38. Carson, E.A., "Mortality in State and Federal Prisons, 2001-2019."
+Statistical Tables. NCJ 300953, Washington, DC: Bureau of Justice
+Statistics, Dec 2021.
+Full text PDF: https://bjs.ojp.gov/content/pub/pdf/msfp0119st.pdf
+
+39. Carson, E.A., "Prisoners in 2018." Bulletin. NCJ 253516, Washington,
+DC: Bureau of Justice Statistics, Apr 2020.
+Full text PDF: https://www.bjs.gov/content/pub/pdf/p18.pdf
+
+40. Carson, E.A.; Cowhig, Mary P., "Mortality in State and Federal Prisons,
+2001-2016." Statistical Tables. NCJ 251920, Washington, DC: Bureau of
+Justice Statistics, Feb 2020.
+Abstract: http://www.bjs.gov/index.cfm?iid=6766&ty=pbdetail&utm_content=feb20mir&utm_medium=email&utm_source=govdelivery
+Full text PDF: https://www.bjs.gov/content/pub/pdf/msfp0116st.pdf
+
+41. Casey, Rachel C., "Mental Health Difficulties and Service Use of
+Incarcerated Women: The Influence of Violence Perpetration and
+Victimization." Dissertation, Virginia Commonwealth University, 2018.
+Abstract: https://scholarscompass.vcu.edu/etd/5285/
+
+42. Casey, Rachel C.; Bentley, Kia J., "Individual factors associated with
+women's use of mental health services during incarceration: Targeting
+programmatic resources." Corrections. in press 2019,. DOI:
+10.1080/23774657.2019.1623134
+Abstract: https://scholarscompass.vcu.edu/etd/5285/
+
+43. Casey, Rachel; Bentley, Kia, "Mental health difficulties and service
+use of incarcerated women: The influence of violence perpetration and
+victimization." Presented at the Society for Social Work and Research 23rd
+Annual Conference, Society for Social Work and Research, San Francisco, CA,
+Jan 18, 2019.
+Abstract: https://sswr.confex.com/sswr/2019/webprogram/Paper33915.html
+
+44. Casey, Rachel; Bentley, Kia; McDonald, Shelby, "Mental health
+difficulties of incarcerated women: Using latent class analysis to promote
+tailored interventions." Presented at the Society for Social Work and
+Research 23rd Annual Conference, Society for Social Work and Research, San
+Francisco, CA, Jan 20, 2019.
+Abstract: https://sswr.confex.com/sswr/2019/webprogram/Paper33914.html
+
+45. Castro, Mary Ellen, "Diabetes Screening in Inmates: A Quality
+Improvement Pilot Project." Dissertation, University of Connecticut, 2014.
+Abstract: https://sswr.confex.com/sswr/2019/webprogram/Paper33914.html
+
+46. Caucutt, Elizabeth M.; Guner, Nezih; Rauh, Christopher, "Is Marriage
+for White People? Incarceration, Unemployment, and the Racial Marriage
+Divide." Oct 2018..
+Full text PDF: http://economics.uwo.ca/people/caucutt_docs/CGRblackmarriages_18-Sep-2018.pdf
+
+47. Caulkins, Jonathan P.; Sevigny, Eric L., "The U.S. causes but cannot
+(or will not) solve Mexico's drug problems." In Payan, Tony; Staudt,
+Kathleen; Kruszewski, Z. Anthony, A War That Can't Be Won: Binational
+Perspectives on the War on Drugs . 285 - 310, Tucson, AZ: University of
+Arizona Press,2013.
+Full text PDF: http://economics.uwo.ca/people/caucutt_docs/CGRblackmarriages_18-Sep-2018.pdf
+
+48. Celinska, Katarzyna; Sung, Hung-En, "Gender differences in the
+determinants of prison rule violations." Prison Journal. Jun 2014, 94, (2),
+220 - 241. DOI: 10.1177/0032885514524882
+Full text PDF: http://economics.uwo.ca/people/caucutt_docs/CGRblackmarriages_18-Sep-2018.pdf
+
+49. Chamberlain, Alyssa Whitby, "Offender rehabilitation: Examining changes
+in inmate treatment characteristics, program participation, and
+institutional behavior." Justice Quarterly. Apr 2012, 29, (2), 183 - 228.
+DOI: 10.1080/07418825.2010.549833
+Full text PDF: http://economics.uwo.ca/people/caucutt_docs/CGRblackmarriages_18-Sep-2018.pdf
+
+50. Chambers, Elizabeth G., "The Effect of Gender of the Incarcerated
+Parent on Female Second-Generation Prisoner Misconduct." Dissertation,
+Capella University, 2019.
+Full text PDF: http://economics.uwo.ca/people/caucutt_docs/CGRblackmarriages_18-Sep-2018.pdf
+
+51. Chan, Stephanie, "PTSD, Alcohol Use and Combat Exposure Among
+Incarcerated Veterans Convicted of Violent Crimes." dissertation, Alliant
+International University, 2017.
+Full text PDF: http://economics.uwo.ca/people/caucutt_docs/CGRblackmarriages_18-Sep-2018.pdf
+
+52. Chassay, Lindsay; Kremer, Kristen P., "Association between social
+support and mental health of incarcerated individuals." Journal of
+Correctional Health Care. in press 2022,. DOI: 10.1089/jchc.20.01.0003
+Full text PDF: http://economics.uwo.ca/people/caucutt_docs/CGRblackmarriages_18-Sep-2018.pdf
+
+53. Chintakrindi, Sriram; Gupta, Suditi, "Examining prison rule violations
+among incarcerated veterans with a history of brain injury, alcohol, and
+substance use." Criminology and Social Integration. 2021, 29, (1), 24 - 40.
+DOI: 10.31299/ksi.29.1.2
+Full text PDF: http://economics.uwo.ca/people/caucutt_docs/CGRblackmarriages_18-Sep-2018.pdf
+
+54. Cho, Ahram, "Exploring the Relationship Between Prison Experience and
+Prison Misconduct Among Inmates with Mental Health Problems: Are They Bad,
+Mad, or Unfortunate?." Dissertation, Sam Houston State University, 2019.
+Full text PDF: http://economics.uwo.ca/people/caucutt_docs/CGRblackmarriages_18-Sep-2018.pdf
+
+55. Chowdhury, Liza, "Intersections of Race and Gender on Prison Punishment
+and Adjustment." Dissertation, Rutgers, 2015.
+Full text PDF: http://economics.uwo.ca/people/caucutt_docs/CGRblackmarriages_18-Sep-2018.pdf
+
+56. Chung, Pil H.; Hepburn, Peter, "Mass imprisonment and the extended
+family." Sociological Science. Jun 14, 2018, 5, 335 - 360. DOI:
+10.15195/v5.a15
+Full text PDF: http://economics.uwo.ca/people/caucutt_docs/CGRblackmarriages_18-Sep-2018.pdf
+
+57. Chung, Pil Hong, "Race and Family in 20th Century United States."
+Dissertation, University of California, 2019.
+Full text PDF: http://economics.uwo.ca/people/caucutt_docs/CGRblackmarriages_18-Sep-2018.pdf
+
+58. Clark, K., "The effect of mental illness on segregation following
+institutional misconduct." Presented at the Lowell Student Research
+Symposium, University of Massachusetts, Lowell, MA, May 2018.
+Full text PDF: http://economics.uwo.ca/people/caucutt_docs/CGRblackmarriages_18-Sep-2018.pdf
+
+59. Clark, K.; Rydberg, J., "The effect of institutional educational
+programming on prisoner misconduct." Presented at the American Society of
+Criminology, Washington, DC, Nov 2015.
+Full text PDF: http://economics.uwo.ca/people/caucutt_docs/CGRblackmarriages_18-Sep-2018.pdf
+
+60. Clark, Kyleigh, "The effect of mental illness on segregation following
+institutional misconduct." Criminal Justice and Behavior. Sep 2018, 45,
+(9), 1363 - 1382. DOI: 10.1177/0093854818766974
+Full text PDF: http://economics.uwo.ca/people/caucutt_docs/CGRblackmarriages_18-Sep-2018.pdf
+
+61. Clark, Kyleigh; Rydberg, Jason, "The effect of institutional
+educational programming on prisoner misconduct." Criminal Justice Studies.
+2016, 29, (4), 325 - 344. DOI: 10.1080/1478601X.2016.1229770
+Full text PDF: http://economics.uwo.ca/people/caucutt_docs/CGRblackmarriages_18-Sep-2018.pdf
+
+62. Colgan, Beth A., "Addressing Modern Debtors' Prisons With Graduated
+Economic Sanctions That Depend on Ability to Pay." Policy Proposal 2019-04.
+The Hamilton Project, Mar 2019.
+Abstract: http://www.hamiltonproject.org/papers/addressing_modern_debtors_prisons_with_graduated_economic_sanctions_that_de
+Full text PDF: http://www.hamiltonproject.org/assets/files/Colgan_PP_201903014.pdf
+
+63. Compton, Andrew, "Decomposing the Societal Opportunity Costs of
+Property Crime." Dec 2019..
+Abstract: https://mpra.ub.uni-muenchen.de/97002/
+
+64. Cook, Philip J., "Gun markets." Annual Review of Criminology. Jan 2018,
+1, 359 - 377. DOI: 10.1146/annurev-criminol-032317-092149
+Abstract: https://mpra.ub.uni-muenchen.de/97002/
+
+65. Cook, Philip J.; Parker, Susan T.; Pollack, Harold A., "Sources of guns
+to dangerous people: What we learn by asking them." Preventive Medicine.
+Oct 2015, 79, 28 - 36. DOI: 10.1016/j.ypmed.2015.04.021
+Abstract: https://mpra.ub.uni-muenchen.de/97002/
+
+66. Crittenden, Courtney A., "Gender and Programming: A Comparison of
+Program Availability and Participation in U.S. Prisons for Men and Women."
+Dissertation, University of South Carolina, 2013.
+Abstract: https://mpra.ub.uni-muenchen.de/97002/
+
+67. Crittenden, Courtney A.; Koons-Witt, Barbara A., "Gender and
+programming: A comparison of program availability and participation in U.S.
+prisons." International Journal of Offender Therapy and Comparative
+Criminology. May 2017, 61, (6), 611 - 644. DOI: 10.1177/0306624X15601432
+Abstract: https://mpra.ub.uni-muenchen.de/97002/
+
+68. Crittenden, Courtney A.; Koons-Witt, Barbara A.; Kaminski, Robert J.,
+"Being assigned work in prison: do gender and race matter?." Feminist
+Criminology. Oct 2018, 13, (4), 359 - 381. DOI: 10.1177/1557085116668990
+Abstract: https://mpra.ub.uni-muenchen.de/97002/
+
+69. Crockett, Kaelie; Gibby, Ashley, "Child placement after parental
+incarceration: The roles of parents' race and sex." Children and Youth
+Services Review. Mar 2021, 122,. DOI: 10.1016/j.childyouth.2020.105903
+Abstract: https://mpra.ub.uni-muenchen.de/97002/
+
+70. Cuellar, Alison E.; Cheema, Jehanzeb, "As roughly 700,000 prisoners are
+released annually, about half will gain health coverage and care under
+federal laws." Health Affairs. May 2012, 31, (5), 931 - 938. DOI:
+10.1377/hlthaff.2011.0501
+Abstract: https://mpra.ub.uni-muenchen.de/97002/
+
+71. Culp, Richard; Youstin, Tasha J.; Englander, Kristin; Lynch, James,
+"From war to prison: Examining the relationship between military service
+and criminal activity." Justice Quarterly. Aug 2013, 30, (4), 651 - 680.
+DOI: 10.1080/07418825.2011.615755
+Abstract: https://mpra.ub.uni-muenchen.de/97002/
+
+72. Dalton, Teresa A., "The Expanding Definition of Crime and Its Effect on
+the Individual: A Multilevel Modeling Analysis." Dissertation, University
+of Denver, 2010.
+Abstract: https://mpra.ub.uni-muenchen.de/97002/
+
+73. Daquin, Jane C., "Inmate Misconduct and Victimization: Investigating
+the Changes Over Time and If the Risk Factors are Invariant Across Age and
+Victim-Offender Status." Dissertation, Georgia State University, 2017.
+Abstract: https://scholarworks.gsu.edu/cj_diss/9
+
+74. Daquin, Jane C., "No reason to be good? Examining the relationship
+between determinate sentencing and misconduct over time." Presented at the
+American Society of Criminology 2018 Annual Meeting, American Society of
+Criminology, Atlanta, GA, Nov 16, 2018.
+Abstract: http://tinyurl.com/yd68mgzx
+
+75. Daquin, Jane C.; Daigle, Leah, "Prison victimization among older
+inmates: Are the risk factors age invariant?." Presented at the Annual
+Meeting of the Academy of Criminal Justice Sciences, Academy of Criminal
+Justice Sciences, New Orleans, LA, Feb 16, 2018.
+Abstract: http://www.acjs.org/resource/resmgr/Abstracts_for_Web_1-4-18.pdf
+
+76. Daquin, Jane C.; Daigle, Leah E., "Mental disorder and victimisation in
+prison: Examining the role of mental health treatment." Criminal Behaviour
+and Mental Health. Apr 2018, 28, (2), 141 - 151. DOI: 10.1002/cbm.2056
+Abstract: https://www.ncbi.nlm.nih.gov/pubmed/28857326
+
+77. Daquin, Jane C.; Daigle, Leah E., "The victim-offender overlap in
+prison: Examining the factors associated with group membership." Journal of
+Interpersonal Violence. in press 2020,. DOI: 10.1177/0886260519898427
+Abstract: https://www.ncbi.nlm.nih.gov/pubmed/28857326
+
+78. Daquin, Jane C.; Daigle, Leah E., "The victim-offender overlap within
+prison: Are the risks the same for being an offender and victim?."
+Presented at the ASC 73rd Annual Meeting, American Society of Criminology,
+Philadelphia, PA, Nov 15, 2017.
+Abstract: http://tinyurl.com/y8oe42hq
+
+79. Dausey, David J.; Greenberg, Greg; Cook, Thomas; Teufel, James; Pilver,
+Lindsay; Desai, Rani, "Sex differences in risk factors and conditions of
+incarcerated violent offenders." Health Systems and Policy Research. Dec
+2016, 3, (4), 1 - 14. DOI: 10.21767/2254-9137.100056
+Abstract: http://tinyurl.com/y8oe42hq
+
+80. Davidson, Megan L.; Rosky, Jeffrey W., "Dangerousness or diminished
+capacity? Exploring the association of gender and mental illness with
+violent offense sentence length." American Journal of Criminal Justice. Jun
+2015, 40, (2), 353 - 376. DOI: 10.1007/s12103-014-9267-1
+Abstract: http://tinyurl.com/y8oe42hq
+
+81. Deckard, Natalie D., "Prison, coerced demand, and the importance of
+incarcerated bodies in late capitalism." Social Currents. Feb 2017, 4, (1),
+3 - 12. DOI: 10.1177/2329496516670186
+Abstract: http://tinyurl.com/y8oe42hq
+
+82. Dezember, Amy, "Examining Alford Pleas and the Presumption of Strong
+Evidence." Dissertation, George Mason University, 2021.
+Abstract: https://cls.gmu.edu/defenses/1294
+
+83. Diaz, Aida I., "Behind the Bars: Contributing Elements in Institutional
+Victimizations." Dissertation, Capella University, 2016.
+Abstract: https://cls.gmu.edu/defenses/1294
+
+84. Dorsey, Tina L.; Zawitz, Marianne W.; Middleton, Priscilla, "Drugs and
+Crime Facts." Washington, DC: United States Department of Justice, Bureau
+of Justice Statistics, Apr 2004.
+Full text PDF: http://www.bjs.gov/content/pub/pdf/dcf.pdf
+
+85. Drakeford, Leah, "Mental health and the role of religious context among
+inmates in state and federal prisons: Results from a multilevel analysis."
+Society and Mental Health. in press 2018,. DOI: 10.1177/2156869318763248
+Full text PDF: http://www.bjs.gov/content/pub/pdf/dcf.pdf
+
+86. Drakeford, Leah, "Moral communities and institutional misconduct: A
+reassessment of religious contextual influences on inmate behavior." Crime
+and Delinquency. in press 2019,. DOI: 10.1177/0011128719833359
+Full text PDF: http://www.bjs.gov/content/pub/pdf/dcf.pdf
+
+87. Dumont, Dora M.; Gjelsvik, Annie; Chen, Nadine; Rich, Josiah D.,
+"Hispanics, incarceration, and TB/HIV screening: A missed opportunity for
+prevention." Journal of Immigrant and Minority Health. Aug 2013, 15, (4),
+711 - 717. DOI: 10.1007/s10903-012-9764-6
+Full text PDF: http://www.bjs.gov/content/pub/pdf/dcf.pdf
+
+88. Dye, Meredith Huey; Aday, Ronald H., "'I just wanted to die': Preprison
+and current suicide ideation among women serving life sentences." Criminal
+Justice and Behavior. Aug 2013, 40, (8), 832 - 849. DOI:
+10.1177/0093854813476266
+Full text PDF: http://www.bjs.gov/content/pub/pdf/dcf.pdf
+
+89. Dyke, Kellie V.; Orrick, Erin A., "An examination of the influence of
+veteran status on offense type among an inmate sample." American Journal of
+Criminal Justice. Jun 2017, 42, (2), 426 - 442. DOI: 10.1007/s12103-016-
+9373-3
+Full text PDF: http://www.bjs.gov/content/pub/pdf/dcf.pdf
+
+90. Edgemon, Timothy, "Inmate Mental Health: Importation, Deprivation, and
+Integrated Perspectives." Thesis, University of Georgia, 2016.
+Full text PDF: http://www.bjs.gov/content/pub/pdf/dcf.pdf
+
+91. Edgemon, Timothy, "Inmate mental health and the pains of imprisonment."
+Presented at the American Society of Criminology Annual Conference,
+Philadelphia, PA, Nov 15, 2017.
+Abstract: https://convention2.allacademic.com/one/asc/asc17/index.php?cmd=Online+Program+View+Paper&selected_paper_id=1277692&PHPSESSID=s12548e555m1n3dpin0votn4m3
+
+92. Edgemon, Timothy G., "Mental Health and Punishment: Exploring the
+Relationship Between Contact with the Criminal Justice System and Mental
+Health." Dissertation, University of Georgia, 2020.
+Abstract: https://convention2.allacademic.com/one/asc/asc17/index.php?cmd=Online+Program+View+Paper&selected_paper_id=1277692&PHPSESSID=s12548e555m1n3dpin0votn4m3
+
+93. Edgemon, Timothy G.; Clay-Warner, Jody, "Inmate mental health and the
+pains of imprisonment." Society and Mental Health. Mar 2019, 9, (1), 33 -
+50. DOI: 10.1177/2156869318785424
+Abstract: https://convention2.allacademic.com/one/asc/asc17/index.php?cmd=Online+Program+View+Paper&selected_paper_id=1277692&PHPSESSID=s12548e555m1n3dpin0votn4m3
+
+94. Edgemon, Timothy G.; Clay-Warner, Jody, "Women's mental health and the
+conditions of confinement." Presented at the American Sociological
+Association 2019 Annual Meeting, American Sociological Association, New
+York, NY, Aug 11, 2019.
+Abstract: http://tinyurl.com/y2v9tqc4
+
+95. Edgemon, Timothy; Clay-Warner, Jody, "The pains of imprisonment and
+women's mental health." Presented at the American Society of Criminology
+2018 Annual Meeting, American Society of Criminology, Atlanta, GA, Nov 15,
+2018.
+Abstract: http://tinyurl.com/y8s2s6wb
+
+96. Ellison, Jessica McGrath, "Relationship Between State Educational
+Fiscal Effort and State Juvenile Incarceration Rates." Dissertation, Old
+Dominion University, 2015.
+Abstract: http://tinyurl.com/y8s2s6wb
+
+97. Estes, Davis A., "Race and Non-racial Characteristics in Sentencing
+Length and Sentencing Type Disparity." thesis, Virginia Commonwealth
+University, 2015.
+Full text PDF: http://scholarscompass.vcu.edu/cgi/viewcontent.cgi?article=4758&context=etd
+
+98. Ewert, Stephanie; Pettit, Becky; Sykes, Bryan, "The Degree of
+Disadvantage: Incarceration and Racial Inequality in Education." Seattle,
+WA: University of Washington, Feb 2010..
+Full text PDF: http://faculty.washington.edu/blsykes/Publications_files/asr_prison_ed_FINAL-1.pdf
+
+99. Ewert, Stephanie; Sykes, Bryan L.; Pettit, Becky
+, "The degree of disadvantage: Incarceration and inequality in education."
+Annals of the American Academy of Political and Social Science. Jan 2014,
+651, (1), 24 - 43. DOI: 10.1177/0002716213503100
+Full text PDF: http://faculty.washington.edu/blsykes/Publications_files/asr_prison_ed_FINAL-1.pdf
+
+100. Favril, Louis; Stoliker, Bryce; Laenen, Freya, "What differentiates
+prisoners who attempt suicide from those who experience suicidal ideation?
+A nationally representative study." Suicide and Life-Threatening Behavior.
+in press 2020,. DOI: 10.1111/sltb.12638
+Full text PDF: http://faculty.washington.edu/blsykes/Publications_files/asr_prison_ed_FINAL-1.pdf
+
+101. Felson, Richard B.; Krajewski, Andrew T., "Did mass incarceration lead
+to the disproportionate admission of minorities and marginal offenders?."
+Criminology and Public Policy. in press 2020,. DOI: 10.1111/1745-9133.12521
+Full text PDF: http://faculty.washington.edu/blsykes/Publications_files/asr_prison_ed_FINAL-1.pdf
+
+102. Felson, Richard B.; Silver, Eric; Remster, Brianna, "Mental disorder
+and offending in prison." Criminal Justice and Behavior. Feb 2012, 39, (2),
+125 - 143. DOI: 10.1177/0093854811428565
+Full text PDF: http://faculty.washington.edu/blsykes/Publications_files/asr_prison_ed_FINAL-1.pdf
+
+103. Felson, Richard B.; Staff, Jeremy, "Committing economic crime for drug
+money." Crime and Delinquency. June 2015, 63, (4), 375 - 390. DOI:
+10.1177/0011128715591696
+Full text PDF: http://faculty.washington.edu/blsykes/Publications_files/asr_prison_ed_FINAL-1.pdf
+
+104. Ferraz, Eduardo; Soares, Rodrigo, "Socially Optimal Crime and
+Punishment." Feb 8, 2018..
+Full text PDF: http://faculty.washington.edu/blsykes/Publications_files/asr_prison_ed_FINAL-1.pdf
+
+105. Ferreira, Eduardo, "Socially Optimal Crime and Punishment."
+Dissertation, Escola de Economia de Sao Paulo, 2018.
+Abstract: http://hdl.handle.net/10438/24018
+
+106. Finlay, Andrea K.; McGuire, Jim; Bronson, Jennifer; Sreenivasan,
+Shoba, "Veterans in prison for sexual offenses: Characteristics and reentry
+service needs." Sexual Abuse. in press 2018,. DOI: 10.1177/1079063218793633
+Abstract: http://hdl.handle.net/10438/24018
+
+107. Galardi, Tasha R., "Childhood Risk as a Predictor of Frequency of
+Contact between Incarcerated Fathers and Their Children." Thesis, Oregon
+State University, 2012.
+Full text: http://hdl.handle.net/1957/30340
+
+108. Galli, Phillip M., "Outside and In: Social Support's Relationship With
+Support While Incarcerated." Southern Illinois University, 2022.
+Full text: http://hdl.handle.net/1957/30340
+
+109. Galoni, Chelsea; Goldsmith, Kelly; Hershfield, Hal E., "When does
+intoxication help or hurt my case? The role of emotionality in the use of
+intoxication as a discounting cue." Journal of the Association for Consumer
+Research. 2021, 6, (3), 1 - 8. DOI: 10.1086/714362
+Full text: http://hdl.handle.net/1957/30340
+
+110. Glaze, Lauren E.; Maruschak, Laura M., "Parents in Prison and Their
+Minor Children." Bureau of Justice Statistics Special Report. NCJ 222984,
+Washington, DC: United States Department of Justice, Bureau of Justice
+Statistics, Aug 2008.
+Full text: http://www.bjs.gov/content/pub/ascii/pptmc.txt
+Full text PDF: http://www.bjs.gov/content/pub/pdf/pptmc.pdf
+Presents data from the 2004 Survey of Inmates in State and Federal
+Correctional Facilities about inmates who were parents and their minor
+children. This report compares estimates of the number of incarcerated
+parents and their children under the age of 18, by gender, age, race, and
+Hispanic origin in state and federal prisons in 1991, 1997, 1999, 2004, and
+2007
+
+111. Gonzalez, Jennifer M.R.; Cannell, M. Brad; Jetelina, Katelyn K.;
+Froehlich-Grobe, Katherine, "Disproportionate prevalence rate of prisoners
+with disabilities: Evidence from a nationally representative sample."
+Journal of Disability Policy Studies. 2016, 27, (2), 106 - 115. DOI:
+10.1177/1044207315616809
+Full text: http://www.bjs.gov/content/pub/ascii/pptmc.txt
+Full text PDF: http://www.bjs.gov/content/pub/pdf/pptmc.pdf
+Presents data from the 2004 Survey of Inmates in State and Federal
+Correctional Facilities about inmates who were parents and their minor
+children. This report compares estimates of the number of incarcerated
+parents and their children under the age of 18, by gender, age, race, and
+Hispanic origin in state and federal prisons in 1991, 1997, 1999, 2004, and
+2007
+
+112. Greenberg, Greg A.; Rosenheck, Robert A., "Homelessness in the state
+and federal prison population." Criminal Behaviour and Mental Health. 2008,
+18, (2), 88 - 103. DOI: 10.1002/cbm.685 NCJ 222447
+Abstract: http://www.ncjrs.gov/App/publications/abstract.aspx?ID=244346
+
+113. Greenberg, Greg A.; Rosenheck, Robert A., "Incarceration among male
+veterans: Relative risk of imprisonment and differences between veteran and
+nonveteran inmates." International Journal of Offender Therapy and
+Comparative Criminology. Jun 2012, 56, (4), 646 - 667. DOI:
+10.1177/0306624X11406091
+Abstract: http://www.ncjrs.gov/App/publications/abstract.aspx?ID=244346
+
+114. Grosholz, Jessica M.; Semenza, Daniel C., "Assessing the relationship
+between physical health and inmate misconduct." Criminal Justice and
+Behavior. Oct 2018, 45, (10), 1527 - 1546. DOI: 10.1177/0093854818775467
+Abstract: http://www.ncjrs.gov/App/publications/abstract.aspx?ID=244346
+
+115. Guofu, M.A.; Zixian, Wang; Shengli, M.A., "Analysis of the
+effectiveness of machine learning model in predicting the risk of inmates."
+Journal of Hebei University (Natural Science Edition). 2017, 37, (4), 426 -
+433. DOI: 10.3969/j.issn.1000-1565.2017.04.015
+Abstract: https://xbzrb.hbu.edu.cn/EN/abstract/abstract4456.shtml
+
+116. Gutierrez, Carmen, "Implementation of the ACA: Releasing former
+prisoners from a high risk of death." Presented at the Presentations from
+Pilot Grant Recipients for Year 6, Network on Life Course Health Dynamics
+and Disparities in 21st Century America, Apr 2, 2021.
+Full text: https://syracuseuniversity.zoom.us/meeting/register/tJIrf-ivqjIpHdJKfQYxgzEceoFjlna1-XTM
+
+117. Gutierrez, Carmen; Patterson, Evelyn, "Implementation of the
+Affordable Care Act: Releasing former prisoners from a high risk of death."
+Presented at the Annual Meeting of the Academic Consortium on Criminal
+Justice Health Conference, Academic Consortium on Criminal Justice Health,
+Apr 9, 2021.
+Abstract: https://events.bizzabo.com/295523/agenda?speakers=1016319
+
+118. Haesen, Sophie; Merkt, Helene; Imber, Arnaud; Elger, Bernice; Wangmo,
+Tenzin, "Substance use and other mental health disorders among older
+prisoners." International Journal of Law and Psychiatry. Jan-Feb 2019, 62,
+20 - 31. DOI: 10.1016/j.ijlp.2018.10.004
+Abstract: https://events.bizzabo.com/295523/agenda?speakers=1016319
+
+119. Haggerty, John R., "Substance Abuse and Mental Disorders Among State
+and Federal Prison Inmates." Thesis, East Tennessee State University, 2011.
+Abstract: https://events.bizzabo.com/295523/agenda?speakers=1016319
+
+120. Hahl, Jeannie M., "Incarcerated Mothers of Minor Children (IMMC)
+Study: Evaluating Access to Family Programming Through a Gender Lens."
+Thesis, The University of Texas at San Antonio, 2011.
+Abstract: https://events.bizzabo.com/295523/agenda?speakers=1016319
+
+121. Harel, Jordan, "Are White Collar Criminals Exceptional?."
+Dissertation, University of Western Ontario, 2015.
+Abstract: https://events.bizzabo.com/295523/agenda?speakers=1016319
+
+122. Harris, Alexes; Evans, Heather; Beckett, Katherine, "Courtesy stigma
+and monetary sanctions: Toward a socio-cultural theory of punishment."
+American Sociological Review. Apr 2011, 76, (2), 234 - 264.
+Abstract: https://events.bizzabo.com/295523/agenda?speakers=1016319
+
+123. Harris, Alexes; Evans, Heather; Beckett, Katherine, "Drawing blood
+from stones: Legal debt and social inequality in the contemporary United
+States." American Journal of Sociology. May 2010, 115, (6), 1753 - 1799.
+DOI: 10.1086/651940
+Abstract: https://events.bizzabo.com/295523/agenda?speakers=1016319
+
+124. Harrison, Paige M.; Beck, Allen J., "Prison and Jail Inmates at
+Midyear 2004." Bureau of Justice Statistics Bulletin. NCJ 208801,
+Washington, DC: United States Department of Justice, Bureau of Justice
+Statistics, Apr 2005.
+Full text: http://www.bjs.gov/content/pub/ascii/pjim04.txt
+Full text PDF: http://bjs.ojp.usdoj.gov/content/pub/pdf/pjim04.pdf
+Presents data on prison and jail inmates, collected from National Prisoner
+Statistics counts and the Annual Survey of Jails in 2004. This annual
+report provides for each State and the Federal system, the number of
+inmates and the overall incarceration rate per 100,000 residents. It offers
+trends since 1995 and percentage changes in prison populations since
+midyear and yearend 2003.  It includes total numbers for prison and jail
+inmates by gender, race, and Hispanic origin as well as counts of jail
+inmates by conviction status and confinement status. The report also
+provides findings on rated capacity of local jails, percent of capacity
+occupied, and capacity added.
+
+125. Harrison, Paige M.; Beck, Allen J., "Prison and Jail Inmates at
+Midyear 2005." Bulletin. NCJ 213133, Washington, DC: United States
+Department of Justice, Bureau of Justice Statistics, May 2006.
+Full text: http://www.bjs.gov/content/pub/ascii/pjim05.txt
+Full text PDF: http://www.bjs.gov/content/pub/pdf/pjim05.pdf
+This annual report presents data on prison and jail inmates, collected from
+National Prisoner Statistics counts and the Census of Jail Inmates 2005.
+The report provides the number of inmates and the overall incarceration
+rate per 100,000 residents for each state and the federal system. It offers
+trends since 1995 and percentage changes in prison populations since
+midyear and yearend 2004.
+
+126. Harrison, Paige M.; Beck, Allen J., "Prisoners in 2005." Bureau of
+Justice Statistics Bulletin. NCJ 215092, Washington, DC: United States
+Department of Justice, Bureau of Justice Statistics, Nov 2006.
+Full text: http://www.bjs.gov/content/pub/ascii/p05.txt
+Full text PDF: http://www.bjs.gov/content/pub/pdf/p05.pdf
+
+127. Harzke, Amy J.; Baillargeon, Jacques G.; Pruitt, Sandi L.; Pulvino,
+John S.; Paar, David P.; Kelley, Michael F., "Prevalence of chronic medical
+conditions among inmates in the Texas prison system." Journal of Urban
+Health. May 2010, 87, (3), 486 - 503. DOI: 10.1007/s11524-010-9448-2
+Full text: http://www.bjs.gov/content/pub/ascii/p05.txt
+Full text PDF: http://www.bjs.gov/content/pub/pdf/p05.pdf
+
+128. Henry, Brandy F., "Adversity, mental health, and substance use
+disorders as predictors and mediators of rule violations in U.S. prisons."
+Criminal Justice and Behavior. in press 2019,. DOI:
+10.1177/0093854819896844
+Full text: http://www.bjs.gov/content/pub/ascii/p05.txt
+Full text PDF: http://www.bjs.gov/content/pub/pdf/p05.pdf
+
+129. Henry, Brandy F., "Typologies of adversity in childhood and adulthood
+as determinants of mental health and substance use disorders of adults
+incarcerated in US prisons." Child Abuse and Neglect. Jan 2020, 99,. DOI:
+10.1016/j.chiabu.2019.104251
+Full text: http://www.bjs.gov/content/pub/ascii/p05.txt
+Full text PDF: http://www.bjs.gov/content/pub/pdf/p05.pdf
+
+130. Hill, Christopher C., "The Effect of Concealed Carry Laws on Weapons
+Possession by Offenders." Thesis, Fayetteville State University, 2010.
+Full text: http://www.bjs.gov/content/pub/ascii/p05.txt
+Full text PDF: http://www.bjs.gov/content/pub/pdf/p05.pdf
+
+131. Holliday, Stephanie; Sreenivasan, Shoba; Elbogen, Eric; Thornton,
+David; McGuire, Jim, "Factors associated with repeat sexual offending among
+U.S. military veterans compared to civilians." International Journal of
+Forensic Mental Health. in press 2021,. DOI: 10.1080/14999013.2021.1943569
+Full text: http://www.bjs.gov/content/pub/ascii/p05.txt
+Full text PDF: http://www.bjs.gov/content/pub/pdf/p05.pdf
+
+132. Houle, Brian, "Obesity disparities among disadvantaged men: National
+adult male inmate prevalence pooled with non-incarcerated estimates, United
+States, 2002-2004." Social Science and Medicine. May 2011, 72, (10), 1667 -
+1673. DOI: 10.1016/j.socscimed.2011.03.039
+Full text: http://www.bjs.gov/content/pub/ascii/p05.txt
+Full text PDF: http://www.bjs.gov/content/pub/pdf/p05.pdf
+
+133. Hughes, Mary H., "Is Prison Why I'm sick? Examining Health Conditions
+Among Minority Males Within Correctional Facilities." Thesis, East
+Tennessee State University, 2017.
+Full text PDF: http://dc.etsu.edu/cgi/viewcontent.cgi?article=4653&context=etd
+
+134. Hughes, Mary H.; Prior, Nicole, "Impacts of incarceration on health
+focusing on minority males: Considerations for COVID-19 and future
+pandemics." Journal of Contemporary Criminal Justice. in press 2021,. DOI:
+10.1177/10439862211045481
+Full text PDF: http://dc.etsu.edu/cgi/viewcontent.cgi?article=4653&context=etd
+
+135. Hunter, Alisha, "Victimization and the Impact on Inmate Behavior."
+Thesis, University of Baltimore, 2018.
+Abstract: https://mdsoar.org/handle/11603/10804
+
+136. Huskey, Michael G., "Homicide Offending and Social Control: A National
+Case Control Study." Dissertation, University of Texas, 2019.
+Abstract: https://hdl.handle.net/10735.1/7327
+
+137. Ivory, Rachel L., "Combat Service and Posttraumatic Stress Disorder as
+a Violent Crimes Predictor in OEF/OIF Veterans." Dissertation, Walden
+University, 2017.
+Abstract: http://scholarworks.waldenu.edu/dissertations/4067/
+Full text PDF: http://scholarworks.waldenu.edu/cgi/viewcontent.cgi?article=5170&context=dissertations
+
+138. Jachimowski, Kayla G., "The relationship between mentally disordered
+inmates, victimization, and violence." Journal of Offender Rehabilitation.
+2018, 57, (1), 47 - 65. DOI: 10.1080/10509674.2017.1416438
+Abstract: http://www.tandfonline.com/doi/abs/10.1080/10509674.2017.1416438
+
+139. James, Doris J.; Glaze, Lauren E., "Mental Health Problems of Prison
+and Jail Inmates." Special Report. NCJ 213600, Washington, DC: United
+States Department of Justice, Bureau of Justice Statistics, Sep 2006.
+Abstract: http://bjs.ojp.usdoj.gov/index.cfm?ty=pbdetail&iid=789
+Full text PDF: http://bjs.ojp.usdoj.gov/content/pub/pdf/mhppji.pdf
+Presents estimates of the prevalence of mental health problems among prison
+and jail inmates using self-reported data on recent history and symptoms of
+mental disorders. The report compares the characteristics of offenders with
+a mental health problem to those without, including current offense,
+criminal record, sentence length, time expected to be served, co-occurring
+substance dependence or abuse, family background, and facility conduct
+since current admission. It presents measures of mental health problems by
+gender, race, Hispanic origin, and age. The report describes mental health
+problems and mental health treatment among inmates since admission to jail
+or prison. Findings are based on the Survey of Inmates in State and Federal
+Correctional Facilities, 2004, and the Survey of Inmates in Local Jails,
+2002.
+
+140. Jennings, Kevin W., "Who Are Computer Criminals?." Dissertation, Texas
+State University, 2014.
+Abstract: http://bjs.ojp.usdoj.gov/index.cfm?ty=pbdetail&iid=789
+Full text PDF: http://bjs.ojp.usdoj.gov/content/pub/pdf/mhppji.pdf
+Presents estimates of the prevalence of mental health problems among prison
+and jail inmates using self-reported data on recent history and symptoms of
+mental disorders. The report compares the characteristics of offenders with
+a mental health problem to those without, including current offense,
+criminal record, sentence length, time expected to be served, co-occurring
+substance dependence or abuse, family background, and facility conduct
+since current admission. It presents measures of mental health problems by
+gender, race, Hispanic origin, and age. The report describes mental health
+problems and mental health treatment among inmates since admission to jail
+or prison. Findings are based on the Survey of Inmates in State and Federal
+Correctional Facilities, 2004, and the Survey of Inmates in Local Jails,
+2002.
+
+141. Jones, LaKeisha L., "The Monsters We Create: Assessing the Recidivism
+Differences of Waived and Non-Waived Juvenile Offenders." Dissertation,
+Capella University, 2014.
+Abstract: http://bjs.ojp.usdoj.gov/index.cfm?ty=pbdetail&iid=789
+Full text PDF: http://bjs.ojp.usdoj.gov/content/pub/pdf/mhppji.pdf
+Presents estimates of the prevalence of mental health problems among prison
+and jail inmates using self-reported data on recent history and symptoms of
+mental disorders. The report compares the characteristics of offenders with
+a mental health problem to those without, including current offense,
+criminal record, sentence length, time expected to be served, co-occurring
+substance dependence or abuse, family background, and facility conduct
+since current admission. It presents measures of mental health problems by
+gender, race, Hispanic origin, and age. The report describes mental health
+problems and mental health treatment among inmates since admission to jail
+or prison. Findings are based on the Survey of Inmates in State and Federal
+Correctional Facilities, 2004, and the Survey of Inmates in Local Jails,
+2002.
+
+142. Kahn-Lang, Ariella, "Missing Black Men? The Impact of Under-Reporting
+on Estimates of Black Male Labor Market Outcomes." Nov 10, 2018..
+Abstract: https://scholar.harvard.edu/ariellakahn-lang/research
+Full text PDF: https://scholar.harvard.edu/files/ariellakahn-lang/files/kahn-lang_jmp_20181110.pdf
+
+143. Katsman, Kseniya, "An Analysis of Self-Reported Suicide Attempts and
+Ideation in a National Sample of Incarcerated Sex Offenders." Thesis, City
+University of New York, 2018.
+Abstract: https://academicworks.cuny.edu/jj_etds/51
+
+144. Kempany, Katherine, "Sentencing within prisons: An examination of
+influences on the disciplinary response to inmate misconduct." Presented at
+the 2017 Annual Meeting of the American Society of Criminology, American
+Society of Criminology, Philadelphia, PA, Nov 18, 2017.
+Abstract: http://tinyurl.com/yadu92dz
+
+145. Kempany, Katherine A., "Sanctioning and Punishment in Prisons: An
+Examination of the Institutional Disciplinary Response to Formal Inmate
+Misconduct." Dissertation, Arizona State University, 2018.
+Abstract: http://tinyurl.com/yadu92dz
+
+146. Kennedy, Sara M.; Sharapova, Saida R.; Beasley, Derrick D.; Hsia,
+Jason, "Cigarette smoking among inmates by race/ethnicity: Impact of
+excluding African American young adult men from national prevalence
+estimates." Nicotine and Tobacco Research. 2016, 18, (S1), S73 - S78. DOI:
+10.1093/ntr/ntv157
+Abstract: http://tinyurl.com/yadu92dz
+
+147. Khalil, Umair M., "Three Essays in Applied Economics." Dissertation,
+University of Rochester, 2015.
+Abstract: http://hdl.handle.net/1802/30086
+
+148. King, Mona, "A Comparison of Discriminant Function Analysis and
+Logistic Regression by Categorizing the Incarcerated Mentally Ill."
+Dissertation, Wayne State University, 2018.
+Abstract: https://digitalcommons.wayne.edu/oa_dissertations/2039
+
+149. King, Sagan M., "Age of Substance Use Onset and Its Relationship to
+Initial Violent Criminal Offense." Dissertation, Chicago School of
+Professional Psychology, 2021.
+Abstract: https://digitalcommons.wayne.edu/oa_dissertations/2039
+
+150. King, Sarah E., "The Disobedient Prisoner: A Racial Comparison of the
+Level of Punishment Prescribed to Inmates for Rule Violations." Thesis,
+University of Central Florida, 2015.
+Abstract: https://digitalcommons.wayne.edu/oa_dissertations/2039
+
+151. Klahm, Charles F., IV; Steiner, Benjamin; Meade, Benjamin, "Assessing
+the relationship between police use of force and inmate offending (rule
+violations)." Crime and Delinquency. Mar 2017, 63, (3), 267 - 295. DOI:
+10.1177/0011128714558291
+Abstract: https://digitalcommons.wayne.edu/oa_dissertations/2039
+
+152. Klamh, Charles; Steiner, Benjamin; Meade, Benjamin, "Using force in
+arrests against those who are not resisting can mean more violent
+prisoners." Updated Jan 22, 2015,.
+Full text: http://blogs.lse.ac.uk/usappblog/2015/01/22/using-force-in-arrests-against-those-who-are-not-resisting-can-mean-more-violent-prisoners/
+
+153. Kleck, Gary; Jackson, Dylan, "What kind of joblessness affects crime?
+A national case-control study of serious property crime." Journal of
+Quantitative Criminology. Dec 2016, 32, (4), 489 - 513. DOI:
+10.1007/s10940-016-9282-0
+Full text: http://blogs.lse.ac.uk/usappblog/2015/01/22/using-force-in-arrests-against-those-who-are-not-resisting-can-mean-more-violent-prisoners/
+
+154. Koons-Witt, Barbara; Crittenden, Courtney, "Gender differences and
+program participation among prisoners with co-occurring substance abuse and
+mental health disorders." Journal of Offender Rehabilitation. in press
+2019,. DOI: 10.1080/10509674.2018.1523818
+Full text: http://blogs.lse.ac.uk/usappblog/2015/01/22/using-force-in-arrests-against-those-who-are-not-resisting-can-mean-more-violent-prisoners/
+
+155. Kopak, Albert, "Breaking the addictive cycle of the system: Improving
+U.S. criminal justice practices to address substance use disorders."
+International Journal of Prisoner Health. 2015, 11, (1),. DOI:
+10.1108/IJPH-07-2014-0023
+Full text: http://blogs.lse.ac.uk/usappblog/2015/01/22/using-force-in-arrests-against-those-who-are-not-resisting-can-mean-more-violent-prisoners/
+
+156. Kopak, Albert M.; Smith-Ruiz, Dorothy, "DSM-5 substance use disorders
+and offense types among women in the criminal justice system." Journal of
+Offender Rehabilitation. 2014, 53, (6), 433 - 454. DOI:
+10.1080/10509674.2014.931748
+Full text: http://blogs.lse.ac.uk/usappblog/2015/01/22/using-force-in-arrests-against-those-who-are-not-resisting-can-mean-more-violent-prisoners/
+
+157. Kozlowski, Meghan M., "Examining the Association Between Mental
+Illness and Victimization Risk in Community and Prison Settings." Thesis,
+University of Maryland, College Park, 2018.
+Abstract: http://hdl.handle.net/1903/21764
+
+158. Krajewski, Andrew T., "A Pragmatic Approach to White-Collar Crime."
+Thesis, Pennsylvania State University, 2018.
+Abstract: https://etda.libraries.psu.edu/catalog/15000avk5726
+
+159. Lahm, Karen F., "Factors affecting contact between inmate parents and
+their children: An examination of mothers and fathers behind bars."
+Corrections. 2016, 1, (1), 61 - 79. DOI: 10.1080/23774657.2016.1105664
+Abstract: https://etda.libraries.psu.edu/catalog/15000avk5726
+
+160. Lankford, Adam; Silver, James; Cox, Jennifer, "An epidemiological
+analysis of public mass shooters and active shooters: Quantifying key
+differences between perpetrators and the general population, homicide
+offenders, and people who die by suicide." Journal of Threat Assessment and
+Management. in press 2021,. DOI: 10.1037/tam0000166
+Abstract: https://etda.libraries.psu.edu/catalog/15000avk5726
+
+161. Lee, Meggan J.; Rochin, Nick, "Hooked on punishment: Symbolic violence
+and the drug war inside U.S. prisons." In Deflem, Mathieu, Sociology of
+Crime, Law and Deviance. 155 - 174, Emerald Publishing Limited,2017.
+Abstract: https://etda.libraries.psu.edu/catalog/15000avk5726
+
+162. Lee, Meggan J.; Rochin, Nick, "Hooked on punishment: Symbolic violence
+and the drug war inside U.S. prisons." In Race, Ethnicity, and Law.
+Sociology of Crime, Law and Deviance. 155 - 174, Bingley, England: Emerald
+Publishing Limited,2017. DOI: 10.1108/S1521-613620170000022012
+Abstract: https://etda.libraries.psu.edu/catalog/15000avk5726
+
+163. Leigey, Margaret E., "The longest time: The adjustment of inmates to a
+sentence of life without parole." Prison Journal. Sep 2010, 90, (3), 247 -
+268. DOI: 10.1177/0032885510373490 NCJ 231769
+Abstract: https://etda.libraries.psu.edu/catalog/15000avk5726
+
+164. Leigey, Margaret E.; Hodge, Jessica P., "Gray matters: Gender
+differences in the physical and mental health of older inmates." Women and
+Criminal Justice. 2012, 22, (4), 289 - 308. DOI:
+10.1080/08974454.2012.716358
+Abstract: https://etda.libraries.psu.edu/catalog/15000avk5726
+
+165. Leigey, Margaret E.; Reed, Katie L., "A woman's life before serving
+life: Examining the negative pre-incarceration life events of female life-
+sentenced inmates." Women and Criminal Justice. Oct 2010, 20, (4), 302 -
+322. DOI: 10.1080/08974454.2010.512229
+Abstract: https://etda.libraries.psu.edu/catalog/15000avk5726
+
+166. Leigey, Margaret; Hodge, Jessica P., "And then they behaved: Examining
+the institutional misconduct of adult inmates who were incarcerated as
+juveniles." Prison Journal. Sep 2013, 93, (3), 272 - 290. DOI:
+10.1177/0032885513490270
+Abstract: https://etda.libraries.psu.edu/catalog/15000avk5726
+
+167. Leon, Chrysanthi S., Sex Fiends, Perverts, and Pedophiles:
+Understanding Sex Crime Policy in America. New York, NY: New York
+University Press, 2011.
+Abstract: https://etda.libraries.psu.edu/catalog/15000avk5726
+
+168. Light, Sarah C., "Intergenerational Incarceration and Inmate
+Adjustment." Thesis, Grand Valley State University, 2018.
+Abstract: https://scholarworks.gvsu.edu/theses/890
+
+169. Liu, Patrick; Nunn, Ryan; Shambaugh, Jay, "Nine Facts About Monetary
+Sanctions in the Criminal Justice System." Economic Facts. The Hamilton
+Project, Mar 2019.
+Full text: http://www.hamiltonproject.org/papers/nine_facts_about_monetary_sanctions_in_the_criminal_justice_system
+Full text PDF: http://www.hamiltonproject.org/assets/files/BailFacts_20190314.pdf
+
+170. Liu, Sitian, "Essays on Family Economics: Roles of Criminal Justice
+and Family Law." Dissertation, Stanford University, 2019.
+Full text: http://www.hamiltonproject.org/papers/nine_facts_about_monetary_sanctions_in_the_criminal_justice_system
+Full text PDF: http://www.hamiltonproject.org/assets/files/BailFacts_20190314.pdf
+
+171. Liu, Sitian, "Incarceration of African American Men and the Impacts on
+Women and Children." Job Market Paper. Nov 10, 2018.
+Full text PDF: http://stanford.edu/~sitian/sitianJMP_paper
+
+172. Liu, Sitian, "Incarceration of African American Men and the Impacts on
+Women and Children." Feb 8, 2021.. DOI: 10.2139/ssrn.3601259
+Abstract: https://ssrn-com.proxy.lib.umich.edu/abstract=3601259
+
+173. Logan, Matthew W.; Dulisse, Brandon; Peterson, Samuel; Morgan, Mark
+A.; Olma, Tayte M.; Pare, Paul-Philippe, "Correctional shorthands: Focal
+concerns and the decision to administer solitary confinement." Journal of
+Criminal Justice. Sep 2017, 52, 90 - 100. DOI:
+10.1016/j.jcrimjus.2017.08.007
+Abstract: https://ssrn-com.proxy.lib.umich.edu/abstract=3601259
+
+174. Logan, Matthew W.; Morgan, Mark A.; Benson, Michael L.; Cullen,
+Francis T., "Coping with imprisonment: Testing the special sensitivity
+hypothesis for white-collar offenders." Justice Quarterly. in press 2018,.
+DOI: 10.1080/07418825.2017.1396488
+Abstract: https://ssrn-com.proxy.lib.umich.edu/abstract=3601259
+
+175. Logan, Matthew W.; Pare, Paul-Philippe, "Are inmates with military
+backgrounds 'Army Strong?'." Criminal Justice Policy Review. Dec 2016, 32,
+(4), 489 - 516. DOI: 10.1177/0887403415623033
+Abstract: https://ssrn-com.proxy.lib.umich.edu/abstract=3601259
+
+176. Lonergan, Brieanne, "The Declining Health of Prisoners: Pains of Long-
+Term Incarceration vs. the Natural Aging Process." Thesis, Southern
+Illinois University, 2010.
+Abstract: https://opensiuc.lib.siu.edu/theses/343/
+
+177. Lopez-Cid, Zenaida; Menjivar, Monica, "Mental Health and Social
+Outcomes of Children with an Incarcerated Parent." Thesis, California State
+University, 2014.
+Full text PDF: http://csus-dspace.calstate.edu/bitstream/handle/10211.3/122017/ThesisFINALOGS.pdf?sequence=2
+
+178. Lynch, James P., "Corrections in the United States: Trends in
+Correctional Populations, Common Perceptions of Incarceration, and the Role
+of Corrections in Society." Washington, DC: Bureau of Justice Statistics,
+May 4, 2012..
+Full text PDF: https://bjs.gov/content/pub/pdf/cus2012.pdf
+
+179. Mahon, Whitney, "A Comparison of the Factors that Lead to Women's
+Incarceration in Overrepresented Crimes." Thesis, California State
+University, San Marcos, 2013.
+Full text PDF: https://bjs.gov/content/pub/pdf/cus2012.pdf
+
+180. Marotta, Phillip, "Assessing the victimization-offending hypothesis of
+sexual and non-sexual violence in a nationally representative sample of
+incarcerated men in the United States: Implications for trauma-informed
+practice in correctional settings." Journal of Interpersonal Violence. in
+press 2021,. DOI: 10.1177/08862605211050115
+Full text PDF: https://bjs.gov/content/pub/pdf/cus2012.pdf
+
+181. Marotta, Phillip, "Childhood adversities and resistant behaviors
+toward law enforcement officers in a national sample of state and federal
+inmates." Police Quarterly. Dec 2015, 18, (4), 414 - 441. DOI:
+10.1177/1098611115589291
+Full text PDF: https://bjs.gov/content/pub/pdf/cus2012.pdf
+
+182. Martin, Karin D.; Sykes, Bryan L.; Shannon, Sarah; Edwards, Frank;
+Harris, Alexes, "Monetary sanctions: Legal financial obligations in US
+systems of justice." Annual Review of Criminology. Jan 2018, 1, 471 - 495.
+DOI: 10.1146/annurev-criminol-032317-091915
+Full text PDF: https://bjs.gov/content/pub/pdf/cus2012.pdf
+
+183. Maruschak, Laura M., "HIV in Prisons, 2004." Bulletin. Washington, DC:
+United States Department of Justice, Office of Justice Programs, Nov 2006.
+Abstract: http://www.bjs.gov/content/abstract/hivp04.htm
+
+184. Maruschak, Laura M., "Medical Problems of Prisoners." Updated Apr
+2008, Accessed Jul 9, 2008.
+Full text: http://www.ojp.gov/bjs/pub/html/mpp/mpp.htm
+Full text PDF: http://www.ojp.gov/bjs/pub/pdf/mpp.pdf
+
+NCJ221740
+185. Maruschak, Laura M.; Berzofsky, Marcus
+, "Medical Problems of State and Federal Prisoners and Jail Inmates, 2011-
+12." Special Report. NCJ 248491, Washington, DC: United States Department
+of Justice, Office of Justice Programs, Bureau of Justice Statistics, Feb
+2015.
+Abstract: http://www.bjs.gov/index.cfm?ty=pbdetail&iid=5219&utm_source=juststats-020515&utm_medium=email&utm_content=Medical%20Problems%20of%20State%20and%20Federal%20Prisoners%20and%20Jail%20Inmates%202011%E2%80%9312&utm_campaign=juststats
+Full text: http://www.bjs.gov/content/pub/ascii/mpsfpji1112.txt
+Full text PDF: http://www.bjs.gov/content/pub/pdf/mpsfpji1112.pdf
+Presents the prevalence of medical problems among state and federal
+prisoners and jail inmates, highlighting differences in rates of chronic
+conditions and infectious diseases by demographic characteristic. The
+report describes health care services and treatment received by prisoners
+and jail inmates with health problems, including doctor 's visits, use of
+prescription medication, and other types of treatment. It also explains
+reasons why inmates with health problems were not receiving care and
+describes inmate satisfaction with health services received while
+incarcerated. Data were from the 2011-12 National Inmate Survey.
+
+186. Maruschak, Laura M.; Bronson, Jennifer; Alper, Mariel, "Alcohol and
+Drug Use and Treatment Reported by Prisoners." Statistical Tables. NCJ
+252641, Washington, DC: Bureau of Justice Statistics, Jul 2021.
+Full text PDF: https://bjs.ojp.gov/sites/g/files/xyckuh236/files/media/document/adutrpspi16st.pdf
+
+187. Maruschak, Laura M.; Glaze, Lauren E.; Mumola, Christopher J.,
+"Incarcerated parents and their children: Findings from the Bureau of
+Justice Statistics." In Eddy, J.M.; Poehlmann, Julie, Children of
+Incarcerated Parents: A Handbook for Researchers and Practitioners. 33 -
+51, Washington, DC: Urban Institute Press,2010.
+Full text PDF: https://bjs.ojp.gov/sites/g/files/xyckuh236/files/media/document/adutrpspi16st.pdf
+
+188. Maruschak, Laura M.; Sabol, William J.; Potter, R.H.; Reid, Laurie C.;
+Cramer, Emily W., "Pandemic influenza and jail facilities and populations."
+American Journal of Public Health. Oct 2009, 99, (S2), S339 - S344. DOI:
+10.2105/AJPH.2009.175174
+Full text PDF: https://bjs.ojp.gov/sites/g/files/xyckuh236/files/media/document/adutrpspi16st.pdf
+
+189. McCall, Janice D., "An Examination of Gender-Neutral and Gender-
+Responsive Characteristics on Program Participation Among Female State
+Prisoners." Dissertation, University of Pittsburgh, 2016.
+Abstract: http://d-scholarship.pitt.edu/id/eprint/27871
+
+190. McCall, Janice D., "Visitation Programs: Differential Moderation
+Effects on Prison Rule Infractions." Society for Social Work and Research
+19th Annual Conference, New Orleans, LA, Jan 2015.
+Abstract: http://d-scholarship.pitt.edu/id/eprint/27871
+
+191. McKinzie, Douglas, "Harsh Punishment in the Federal and State Prison
+Systems." Midwestern Political Science Association 67th Annual National
+Conference, Apr 2009.
+Abstract: http://d-scholarship.pitt.edu/id/eprint/27871
+
+192. Meade, Benjamin, "Examining the Effects of Religiosity and Religious
+Environments on Inmate Misconduct." Dissertation, University of South
+Carolina, 2012.
+Abstract: http://d-scholarship.pitt.edu/id/eprint/27871
+
+193. Meade, Benjamin, Moral Communities and Jailhouse Religion: Religiosity
+and Prison Misconduct. El Paso, TX: LFB Scholarly Publishing, 2014.
+Abstract: http://d-scholarship.pitt.edu/id/eprint/27871
+
+194. Meade, Benjamin; Bolin, Riane M., "Religion and prison violence." In
+Kerley, Kent R., Finding Freedom in Confinement: The Role of Religion in
+Prison Life. 93 - 119, Santa Barbara, CA: ABC-CLIO,2018.
+Abstract: http://d-scholarship.pitt.edu/id/eprint/27871
+
+195. Meade, Benjamin; Steiner, Benjamin, "The effects of exposure to
+violence on inmate maladjustment." Criminal Justice and Behavior. Nov 2013,
+40, (11), 1228 - 1249. DOI: 10.1177/0093854813495392 2011-IJ-CX-0003
+Abstract: http://d-scholarship.pitt.edu/id/eprint/27871
+
+196. Meade, Benjamin; Steiner, Benjamin; Klahm, Charles F., IV, "The effect
+of police use of force on mental health problems of prisoners." Policing
+and Society. 2017, 27, (2), 229 - 244. DOI: 10.1080/10439463.2015.1049602
+Abstract: http://d-scholarship.pitt.edu/id/eprint/27871
+
+197. Meade, Benjamin; Wasileski, Gabriela; Hunter, Alisha, "The effects of
+victimization prior to prison on victimization, misconduct, and sanction
+severity during incarceration." Crime and Delinquency. in press 2021,. DOI:
+10.1177/0011128720977440
+Abstract: http://d-scholarship.pitt.edu/id/eprint/27871
+
+198. Moore, Bernard, "America's Race to Incarcerate: Locking Up Communities
+of Color." Dissertation, Howard University, 2009.
+Abstract: http://d-scholarship.pitt.edu/id/eprint/27871
+
+199. Moore, Nina M., "Racial tracking: Two law enforcement modes." In The
+Political Roots of Racial Tracking in American Criminal Justice. 1 - 31,
+New York, NY: Cambridge University Press,2015.
+Abstract: http://d-scholarship.pitt.edu/id/eprint/27871
+
+200. Morgan, Mark A.; Logan, Matthew W.; Arnio, Ashley N., "Hazardous duty:
+Investigating resistance to police at the point of arrest among
+incarcerated military veterans." Armed Forces and Society. in press 2021,.
+DOI: 10.1177/0095327X211042061
+Abstract: http://d-scholarship.pitt.edu/id/eprint/27871
+
+201. Morgan, Mark A.; Logan, Matthew W.; Cullen, Francis T., "The
+battlefield behind bars: How mental disorder and suicidal behavior impacts
+the prison experience for veterans." American Journal of Criminal Justice.
+in press 2018,. DOI: 10.1007/s12103-018-9458-2
+Abstract: http://d-scholarship.pitt.edu/id/eprint/27871
+
+202. Morgan, Mark A.; Logan, Matthew W.; Olma, Tayte M., "Police use of
+force and suspect behavior: An inmate perspective." Journal of Criminal
+Justice. Mar-Apr 2020, 67,. DOI: 10.1016/j.jcrimjus.2020.101673
+Abstract: http://d-scholarship.pitt.edu/id/eprint/27871
+
+203. Muller, Christopher; Wildeman, Christopher, "Geographic variation in
+the cumulative risk of imprisonment and parental imprisonment in the United
+States." Demography. Oct 2016, 53, (5), 1499 - 1509. DOI: 10.1007/s13524-
+016-0493-7
+Abstract: http://d-scholarship.pitt.edu/id/eprint/27871
+
+204. Mumola, Christopher J.; Karberg, Jennifer C., "Drug Use and
+Dependence, State and Federal Prisoners, 2004." Special Report. 213530,
+Washington, DC: United States Department of Justice, Bureau of Justice
+Statistics, Oct 2006.
+Full text: http://www.bjs.gov/content/pub/ascii/dudsfp04.txt
+Full text PDF: http://www.bjs.gov/content/pub/pdf/dudsfp04.pdf
+
+205. National Research Council, The Growth of Incarceration in the United
+States: Exploring Causes and Consequences. Washington, DC: The National
+Academies Press, 2014.
+Full text: http://www.nap.edu/openbook.php?record_id=18613
+
+206. Ngo, Fawn T.; Govindu, Ramakrishna; Agarwal, Anurag, "Assessing the
+predictive utility of logistic regression, classification and regression
+tree, chi-squared automatic interaction detection, and neural network
+models in predicting inmate misconduct." American Journal of Criminal
+Justice. Mar 2015, 40, (1), 47 - 74. DOI: 10.1007/s12103-014-9246-6
+Full text: http://www.nap.edu/openbook.php?record_id=18613
+
+207. Ngo, Fawn T.; Govindu, Ramakrishna; Agarwal, Anurag, "Traditional
+regression methods versus the utility of machine learning techniques in
+forecasting inmate misconduct in the United States: An exploration of the
+prospects of the techniques." International Journal of Criminal Justice
+Sciences. Jul-Dec 2018, 13, (2), 420 - 437. DOI: 10.5281/zenodo.2657668
+Full text: http://www.nap.edu/openbook.php?record_id=18613
+
+208. Nicosia, Nancy; Pacula, Rosalie Liccardo; Kilmer,  Beau; Lundberg,
+Russell; Chiesa, James, "The Economic Cost of Methamphetamine Use in the
+United States, 2005." Santa Monica, CA: RAND Drug Policy Research Center,
+2009.
+Full text: http://www.dtic.mil/cgi-bin/GetTRDoc?Location=U2&doc=GetTRDoc.pdf&AD=ADA498655
+
+209. Noonan, Margaret E.; Mumola, Christopher J., "Veterans in State and
+Federal Prisons, 2004." Special Report. NCJ 217199, Washington, DC: United
+States Department of Justice, Bureau of Justice Statistics, May 2007.
+Abstract: http://www.bjs.gov/content/abstract/vsfp04.htm
+Full text: http://www.bjs.gov/content/pub/ascii/vsfp04.txt
+Full text PDF: http://www.bjs.gov/content/pub/pdf/vsfp04.pdf
+This report presents data on the military and criminal backgrounds of
+incarcerated veterans, uses new measures to describe their substance abuse
+and dependence histories, and provides a detailed measure of their mental
+health problems.
+
+210. Nowotny, Katherine M.; Rogers, Richard G.; Boardman, Jason D., "Racial
+disparities in health conditions among prisoners compared with the
+noninstitutionalized population." SSM - Population Health. Dec 2017, 3, 487
+- 496. DOI: 10.1016/j.ssmph.2017.05.011
+Abstract: http://www.bjs.gov/content/abstract/vsfp04.htm
+Full text: http://www.bjs.gov/content/pub/ascii/vsfp04.txt
+Full text PDF: http://www.bjs.gov/content/pub/pdf/vsfp04.pdf
+This report presents data on the military and criminal backgrounds of
+incarcerated veterans, uses new measures to describe their substance abuse
+and dependence histories, and provides a detailed measure of their mental
+health problems.
+
+211. Nowotny, Kathryn M., "Health care needs and service use among male
+prison inmates in the United States: A multi-level behavioral model of
+prison health service utilization." Health and Justice. Jun 2017, 5, (9), 1
+- 13. DOI: 10.1186/s40352-017-0052-3
+Abstract: https://www.ncbi.nlm.nih.gov/pubmed/28597357
+
+212. Nowotny, Kathryn M., "Race/ethnic disparities in the utilization of
+treatment for drug dependent inmates in U.S. State correctional
+facilities." Addictive Behaviors. Jan 2015, 40, 148 - 153. DOI:
+10.1016/j.addbeh.2014.09.005
+Abstract: https://www.ncbi.nlm.nih.gov/pubmed/28597357
+
+213. Nowotny, Kathryn M., "Social factors related to the utilization of
+health care among prison inmates." Journal of Correctional Health Care.
+2016, 22, (2), 129 - 138. DOI: 10.1177/1078345816633701
+Abstract: https://www.ncbi.nlm.nih.gov/pubmed/28597357
+
+214. Nowotny, Kathryn M., "Understanding Health Disparities: The Health and
+Healthcare of Incarcerated Adults." Dissertation, University of Colorado,
+2016.
+Abstract: https://www.ncbi.nlm.nih.gov/pubmed/28597357
+
+215. Nowotny, Kathryn M.; Cepeda, Alice; James-Hawkins, Laurie; Boardman,
+Jason D., "Growing old behind bars: Health profiles of the older male
+inmate population in the United States." Journal of Aging and Health. 2016,
+28, (6), 935 - 956. DOI: 10.1177/0898264315614007
+Abstract: https://www.ncbi.nlm.nih.gov/pubmed/28597357
+
+216. Nowotny, Kathryn M.; Masters, Ryan K.; Boardman, Jason D., "The
+relationship between education and health among incarcerated men and women
+in the United States." BMC Public Health. Sep 2016, 16, (1), 916 - 924.
+DOI: 10.1186/s12889-016-3555-2
+Full text: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5009667/
+Full text PDF: https://bmcpublichealth.biomedcentral.com/track/pdf/10.1186/s12889-016-3555-2?site=bmcpublichealth.biomedcentral.com
+
+217. O'Brien, Timothy L., "Arresting confidence: Mass incarceration and
+Black-White differences in perceptions of legal authorities." Social
+Science Quarterly. Sep 2020, 101, (5), 1905 - 1919. DOI: 10.1111/ssqu.12842
+Full text: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5009667/
+Full text PDF: https://bmcpublichealth.biomedcentral.com/track/pdf/10.1186/s12889-016-3555-2?site=bmcpublichealth.biomedcentral.com
+
+218. Olson, Jeremiah; Nadadur, Vijaykant, "Classifying punishment decisions
+within prisons." International Journal of Social Science and
+Interdisciplinary Research. Apr 2013, 2, (4), 11 - 21.
+Full text: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5009667/
+Full text PDF: https://bmcpublichealth.biomedcentral.com/track/pdf/10.1186/s12889-016-3555-2?site=bmcpublichealth.biomedcentral.com
+
+219. Oreski, Dijana; Oreski, Stjepan; Klicek, Bozidar, "Effects of dataset
+characteristics on the performance of feature selection techniques."
+Applied Soft Computing. Mar 2017, 52, 109 - 119. DOI:
+10.1016/j.asoc.2016.12.023
+Full text: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5009667/
+Full text PDF: https://bmcpublichealth.biomedcentral.com/track/pdf/10.1186/s12889-016-3555-2?site=bmcpublichealth.biomedcentral.com
+
+220. Pare, Paul-Philippe; Logan, Matthew W., "Risks of minor and serious
+violent victimization in prison: The impact of inmates' mental disorders,
+physical disabilities, and physical size." Society and Mental Health. Jul
+2011, 1, (2), 106 - 123. DOI: 10.1177/2156869311416828
+Full text: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5009667/
+Full text PDF: https://bmcpublichealth.biomedcentral.com/track/pdf/10.1186/s12889-016-3555-2?site=bmcpublichealth.biomedcentral.com
+
+221. Patterson, Evelyn J., "The Long Arc of Mass Imprisonment." Updated Oct
+16, 2020,.
+Full text: https://www.soc.upenn.edu/events/2020/10/16/race-ethnicity-and-immigration-evelyn-j-patterson-associate-professor-sociology
+
+222. Patterson, Evelyn J., "The strategies, complexities, and realities of
+zero
+prison population growth." Social Sciences. 2017, 6, (60),. DOI:
+10.3390/socsci6020060
+Full text: https://www.soc.upenn.edu/events/2020/10/16/race-ethnicity-and-immigration-evelyn-j-patterson-associate-professor-sociology
+
+223. Patterson, Evelyn J.; Dagadu, Helena E., "Fractures in the color line:
+Consequences of constructions of race and ethnicity on measures of
+imprisonment." Sociology of Race and Ethnicity. in press 2015,. DOI:
+10.1177/2332649215587762
+Full text: https://www.soc.upenn.edu/events/2020/10/16/race-ethnicity-and-immigration-evelyn-j-patterson-associate-professor-sociology
+
+224. Patterson, Evelyn J.; Wildeman, Christopher J., "Mass imprisonment and
+the life course revisited: Cumulative years spent imprisoned and marked for
+working-age Black and White men." Social Science Research. Sep 2015, 53,
+325 - 337. DOI: 10.1016/j.ssresearch.2015.06.011
+Full text: https://www.soc.upenn.edu/events/2020/10/16/race-ethnicity-and-immigration-evelyn-j-patterson-associate-professor-sociology
+
+225. Pelleg, Maia, "The Evolution of Mental Health Courts and a Prospective
+Study of Aggregate Recidivism Rates for Mentally Ill Criminal Offenders."
+Thesis, Duke University, 2013.
+Abstract: https://dukespace.lib.duke.edu/dspace/handle/10161/7333
+
+226. Perez, Gabrielle A., "Violent Offenders: A Gendered Look at General
+Strain Theory." Thesis, George Washington University, 2021.
+Abstract: https://dukespace.lib.duke.edu/dspace/handle/10161/7333
+
+227. Pettit, Becky, Invisible Men: Mass Incarceration and the Myth of Black
+Progress. New York, NY: Russell Sage Foundation, 2012.
+Abstract: https://dukespace.lib.duke.edu/dspace/handle/10161/7333
+
+228. Pettit, Becky; Sykes, Bryan, "The Demographic Implications of the
+Prison Boom: Evidence of a 'Third Demographic Transition'?." Seattle, WA:
+University of Washington, Department of Sociology, Jul 2008..
+Full text PDF: http://faculty.washington.edu/blsykes/Papers/prison_demography_3.pdf
+
+229. Phelps, Michelle S., "Mass probation and inequality: Race, class, and
+gender disparities in supervision and revocation." In Ulmer, Jeffrey T.;
+Bradley, Mindy, Handbook on Punishment Decisions: Locations of Disparity.
+43 - 66, New York, NY: Routledge,2018.
+Full text PDF: http://faculty.washington.edu/blsykes/Papers/prison_demography_3.pdf
+
+230. Phelps, Michelle S., "Probation." Presented at the Reducing Justice
+System Inequality Authors' Conference, The Future of Children, Princeton,
+NJ, Mar 30, 2017.
+Full text PDF: http://faculty.washington.edu/blsykes/Papers/prison_demography_3.pdf
+
+231. Phelps, Michelle S., "The paradox of probation: Community supervision
+in the age of mass incarceration." Law and Policy. Jan/Apr 2013, 35, (1-2),
+51 - 80. DOI: 10.1111/lapo.12002
+Full text PDF: http://faculty.washington.edu/blsykes/Papers/prison_demography_3.pdf
+
+232. Phelps, Michelle S. , "Rehabilitation in the punitive era: The gap
+between rhetoric and reality in U.S. prison programs." Law and Society
+Review. 2011, 45, (1), 33 - 68. DOI: 10.1111/j.1540-5893.2011.00427.x
+Full text PDF: http://faculty.washington.edu/blsykes/Papers/prison_demography_3.pdf
+
+233. Piehl, Anne, "Putting Time Limits on the Punitiveness of the Criminal
+Justice System." Policy Memo 2016-03. Washington, DC: Hamilton Project, Oct
+21, 2016.
+Abstract: https://www.brookings.edu/research/putting-time-limits-on-the-punitiveness-of-the-criminal-justice-system/
+Full text PDF: https://www.hamiltonproject.org/assets/files/reducing_punitiveness_piehl_policymemo.pdf
+
+234. Pollack, Harold; Reuter, Peter; Sevigny, Eric L., "If Drug Treatment
+Works So Well, Why Are So Many Drug Users in Prison?." NBER Working Paper
+16731. Cambridge, MA: National Bureau of Economic Research, Jan 2011.
+Abstract: http://www.nber.org/papers/w16731
+Full text PDF: http://www.nber.org/papers/w16731.pdf?new_window=1
+This paper examines the effectiveness of drug courts to reduce the size of
+the incarcerated drug-offending population using data from the Survey of
+Inmates in State Correctional Facilities and the Survey of Inmates in Local
+Jails. We find that very few of those entering state prison in 2004 or jail
+in 2002 would have been eligible for drug diversion through state drug
+courts. The policy implication is that drug courts and other diversion
+programs require substantial redesign if they are to contribute to a
+reduction in the incarcerated population.
+
+235. Porter, Lauren C.; Bushway, Shawn D.; Tsao, Hui-Shien; Smith, Herbert
+L., "How the U.S. prison boom has changed the age distribution of the
+prison population." Criminology. Feb 2016, 54, (1), 30 - 55. DOI:
+10.1111/1745-9125.12094
+Abstract: http://www.nber.org/papers/w16731
+Full text PDF: http://www.nber.org/papers/w16731.pdf?new_window=1
+This paper examines the effectiveness of drug courts to reduce the size of
+the incarcerated drug-offending population using data from the Survey of
+Inmates in State Correctional Facilities and the Survey of Inmates in Local
+Jails. We find that very few of those entering state prison in 2004 or jail
+in 2002 would have been eligible for drug diversion through state drug
+courts. The policy implication is that drug courts and other diversion
+programs require substantial redesign if they are to contribute to a
+reduction in the incarcerated population.
+
+236. Porter, Lauren C.; Kozlowski-Serra, Meghan; Lee, Hedwig,
+"Proliferation or adaptation? Differences across race and sex in the
+relationship between time served in prison and mental health symptoms."
+Social Science and Medicine. in press 2021,. DOI:
+10.1016/j.socscimed.2021.113815
+Abstract: http://www.nber.org/papers/w16731
+Full text PDF: http://www.nber.org/papers/w16731.pdf?new_window=1
+This paper examines the effectiveness of drug courts to reduce the size of
+the incarcerated drug-offending population using data from the Survey of
+Inmates in State Correctional Facilities and the Survey of Inmates in Local
+Jails. We find that very few of those entering state prison in 2004 or jail
+in 2002 would have been eligible for drug diversion through state drug
+courts. The policy implication is that drug courts and other diversion
+programs require substantial redesign if they are to contribute to a
+reduction in the incarcerated population.
+
+237. Poteyeva, Margarita; Leigey, Margaret, "An examination of the mental
+health and negative life events of women who killed their children." Social
+Sciences. 2018, 7, (9),. DOI: 10.3390/socsci7090168
+Abstract: https://www.mdpi.com/2076-0760/7/9/168
+Full text: https://www.mdpi.com/2076-0760/7/9/168/htm
+
+238. Powers, Presley H., "Where Did All the Parents Go?: An
+Intergenerational Approach to Incarceration." Thesis, Middle Tennessee
+State University, 2021.
+Full text PDF: https://jewlscholar.mtsu.edu/bitstream/handle/mtsu/6414/Powers_mtsu_0170N_11418.pdf
+
+239. Rand, Michael R.; Sabol, William J.; Sinclair, Michael; Snyder, Howard
+N., "Alcohol and Crime: Data from 2002 to 2008." Washington, DC: United
+States Department of Justice, Bureau of Justice Statistics, Sep 2010.
+Abstract: http://bjs.ojp.usdoj.gov/index.cfm?ty=pbdetail&iid=2313
+Full text PDF: http://bjs.ojp.usdoj.gov/content/acf/ac10.pdf
+
+240. Raphael, Steven, "Improving employment prospects for former prison
+inmates: Challenges and policy." In Controlling Crime: Strategies and
+Tradeoffs. 521 - 565, Chicago, IL: University of Chicago Press,2011.
+Full text: http://www.nber.org/chapters/c12086
+Full text PDF: https://www.nber.org/system/files/chapters/c12086/c12086.pdf
+
+241. Raphael, Steven; Stoll, Michael A., "Assessing the Contribution of the
+Deinstitutionalization of the Mentally Ill to Growth in the U.S.
+Incarceration Rate." Mar 2010..
+Full text PDF: http://ist-socrates.berkeley.edu/~raphael/IGERT/Workshop/mental%20illness%20raphael%20and%20stoll%20march%202010.pdf
+
+242. Raphael, Steven; Stoll, Michael A., "Assessing the contribution of the
+deinstitutionalization of the mentally ill to growth in the U.S.
+incarceration rate." Journal of Legal Studies. Jan 2013, 42, (1), 187 -
+222. DOI: 10.1086/667773
+Full text PDF: http://ist-socrates.berkeley.edu/~raphael/IGERT/Workshop/mental%20illness%20raphael%20and%20stoll%20march%202010.pdf
+
+243. Raphael, Steven; Stoll, Michael A., Why Are So Many Americans in
+Prison?. New York, NY: Russell Sage Foundation, 2013.
+Full text PDF: http://ist-socrates.berkeley.edu/~raphael/IGERT/Workshop/mental%20illness%20raphael%20and%20stoll%20march%202010.pdf
+
+244. Redlich, Allison D.; Ozdogru, Asil A., "Alford pleas in the age of
+innocence." Behavioral Sciences and the Law. May/Jun 2009, 27, (3), 467 -
+488. DOI: 10.1002/bsl.876
+Full text PDF: http://ist-socrates.berkeley.edu/~raphael/IGERT/Workshop/mental%20illness%20raphael%20and%20stoll%20march%202010.pdf
+
+245. Reingle Gonzalez, Jennifer M.; Connell, Nadine M., "Mental health of
+prisoners: Identifying barriers to mental health treatment and medication
+continuity." American Journal of Public Health. Dec 2014, 104, (12), 2328 -
+2333. DOI: 10.2105/AJPH.2014.302043
+Full text PDF: http://ist-socrates.berkeley.edu/~raphael/IGERT/Workshop/mental%20illness%20raphael%20and%20stoll%20march%202010.pdf
+
+246. Reschenberg, Kristin, "Understanding Differences in Male and Female
+Participation in Post-Secondary Correctional Education." Thesis, Southern
+Illinois University Carbondale, 2009.
+Full text PDF: http://ist-socrates.berkeley.edu/~raphael/IGERT/Workshop/mental%20illness%20raphael%20and%20stoll%20march%202010.pdf
+
+247. Richards, Kaitlynn A., "Experiencing the Prison Industrial Complex:
+The Impact of Incarceration on Families." Thesis, California State
+University, Sacramento, 2014.
+Full text PDF: http://ist-socrates.berkeley.edu/~raphael/IGERT/Workshop/mental%20illness%20raphael%20and%20stoll%20march%202010.pdf
+
+248. Rogers, Heather, "Punished: Examining the Differential Impact of Co-
+Occurring Disorders on Inmate Conduct and Discipline." Masters, Georgia
+Southern University, 2017.
+Abstract: http://digitalcommons.georgiasouthern.edu/etd/1615/
+
+249. Rose, Kristin; Rose, Chris, "Enrolling in college while in prison:
+Factors that promote male and female prisoners to participate." Journal of
+Correctional Education. May 2014, 65, (2), 20 - 39. NCJ 247123
+Abstract: https://www.ncjrs.gov/App/Publications/abstract.aspx?ID=269222
+
+250. Rosen, Allison B.; Ghosh, Kaushik; Pape, Emily S.; Perraillon, Marcelo
+C.; Bondarenko, Irina; Messer, Kassandra L.; Raghunathan, Trivellore;
+Stewart, Susan T.; Cutler, David M., "Strengthening National Data to Better
+Measure What We Are Buying in Health Care: Reconciling National Health
+Expenditures With Detailed Survey Data." Working Paper 23290. Cambridge,
+MA: National Bureau of Economic Research, Mar 2017. DOI: 10.3386/w23290
+Abstract: http://www.nber.org/papers/w23290
+Full text PDF: http://www.nber.org/papers/w23290.pdf
+
+251. Rosen, David L.; Hammond, Wizdom P.; Wohl, David A.; Golin, Carol E. ,
+"Disease prevalence and use of health care among a national sample of Black
+and White state prisoners." Journal of Health Care for the Poor and
+Underserved. Feb 2012, 23, (1), 254 - 272. DOI: 10.1353/hpu.2012.0033
+Abstract: http://www.nber.org/papers/w23290
+Full text PDF: http://www.nber.org/papers/w23290.pdf
+
+252. Rosen, David L; Grodensky, Catherine A.; Holley, Tara K., "Federally-
+assisted healthcare coverage among male state prisoners with chronic health
+problems." PLOS One. Aug 2016, 11, (8), 1 - 11. DOI:
+10.1371/journal.pone.0160085
+Abstract: http://www.nber.org/papers/w23290
+Full text PDF: http://www.nber.org/papers/w23290.pdf
+
+253. Rosenfeld, Jake; Pettit, Becky; Laird, Jennifer; Sykes, Bryan,
+"Incarceration and Racial Inequality in Voter Turnout." American Political
+Science Association Annual Meeting, Seattle, WA, Sep 2011.
+Abstract: http://ssrn.com/abstract=1901381
+
+254. Roxburgh, Susan; Fitch, Chivon, "Parental status, child contact, and
+well-being among incarcerated men and women." Journal of Family Issues. Aug
+2014, 35, (10), 1394 - 1412. DOI: 10.1177/0192513X13498593
+Abstract: http://ssrn.com/abstract=1901381
+
+255. Roxburgh, Susan; MacArthur, Kelly Rhea, "Childhood adversity and adult
+depression among the incarcerated: Differential exposure and vulnerability
+by race/ethnicity and gender." Child Abuse and Neglect. Aug 2014, 38, (8),
+1409 - 1420. DOI: 10.1016/j.chiabu.2014.02.007
+Abstract: http://ssrn.com/abstract=1901381
+
+256. Rubenstein, Batya Y.; Toman, Elisa L.; Cochran, Joshua C.,
+"Socioeconomic barriers to child contact with incarcerated parents."
+Justice Quarterly. in press 2019,. DOI: 10.1080/07418825.2019.1606270
+Abstract: http://ssrn.com/abstract=1901381
+
+257. Rude, Amanda, "Gender Differences in Prison Program Involvement and
+Inmate Misconduct." Thesis, University of Alabama, 2019.
+Abstract: http://ssrn.com/abstract=1901381
+
+258. Sabol, William J.; Johnson, Thaddeus L., "The 1994 Crime Bill: Legacy
+and lessons - Impacts on prison populations." Federal Sentencing Reporter.
+2020, 32, (3), 153 - 156. DOI: 10.1525/fsr.2020.32.3.153
+Abstract: http://ssrn.com/abstract=1901381
+
+259. Sabol, William J.; West, Heather C.; Cooper, Matthew, "Prisoners in
+2008." Bureau of Justice Statistics Bulletin. NCJ 228417, Washington, DC:
+United States Department of Justice, Bureau of Justice Statistics, Dec
+2009.
+Abstract: http://www.ncjrs.gov/App/publications/abstract.aspx?ID=250436
+Full text: http://bjs.ojp.usdoj.gov/content/pub/ascii/p08.txt
+Full text PDF: http://bjs.ojp.usdoj.gov/content/pub/pdf/p08.pdf
+This annual report compares changes in the prison population during 2008 to
+changes from yearend 2000 through yearend 2007. These are the only
+comprehensive national-level data on prison admissions and releases.
+Findings cover data on decreasing growth in State and Federal prisons
+through declining admissions and increasing releases; imprisonment rates
+for prisoners sentenced to more than 1 year by jurisdiction; the number of
+males and females in prison; age, race, and gender distributions; the
+number of inmates in custody in State and Federal prison and local jails;
+and custody incarceration rates. The report also includes the count for
+inmates held within facilities operated by and for the military, U.S.
+territories, Indian country, Immigration and Customs Enforcement (ICE), and
+juvenile authorities. Highlights include the following: the U.S. prison
+population grew at the slowest rate (0.8 percent) since 2000, reaching
+1,610,446 sentenced prisoners at yearend 2008; growth of the prison
+population since 2000 (1.8 percent per year on average) was less than a
+third of the average annual rate during the 1990s (6.5 percent per year on
+average); between 2000 and 2008 the number of blacks in prison declined by
+18,400, lowering the imprisonment rate to 3,161 men and 149 women per
+100,000 persons in the U.S. resident black population.
+
+260. Sabol, William; Lynch, James P., "The correctional system and the
+integration of marginal populations in the United States 1974 to 2004."
+Presented at the American Society of Criminology 2008 Annual Meeting,
+American Society of Criminology, St. Louis, MO, Nov 14, 2008.
+Abstract: https://convention2.allacademic.com/one/asc/asc08/index.php?click_key=1&cmd=Multi+Search+Search+Load+Publication&publication_id=270304&PHPSESSID=8qr32ts73kr5usepb4thsfi4q5
+
+261. Schnepel, Kevin T., "Essays in Applied Microeconomics and
+Econometrics." Dissertation, University of California, 2013.
+Abstract: https://convention2.allacademic.com/one/asc/asc08/index.php?click_key=1&cmd=Multi+Search+Search+Load+Publication&publication_id=270304&PHPSESSID=8qr32ts73kr5usepb4thsfi4q5
+
+262. Schnepel, Kevin T., "Labor Market Opportunities and Crime: Evidence
+from Parolees." Santa Barbara, CA: University of California Santa Barbara,
+Nov 2012.
+Full text PDF: http://www.econ.ucsb.edu/about_us/events/seminar_papers/Schnepel.pdf
+
+263. Schnittker, Jason; Bacak, Valerio, "Orange is still pink: Mental
+illness, gender roles, and physical victimization in prisons." Society and
+Mental Health. Mar 2016, 6, (1), 21 - 35. DOI: 10.1177/2156869315609733
+Full text PDF: http://www.econ.ucsb.edu/about_us/events/seminar_papers/Schnepel.pdf
+
+264. Semenza, Daniel C.; Grosholz, Jessica M., "Mental and physical health
+in prison: How co-occurring conditions influence inmate misconduct." Health
+and Justice. Dec 2019, 7, (1),. DOI: 10.1186/s40352-018-0082-5
+Full text PDF: http://www.econ.ucsb.edu/about_us/events/seminar_papers/Schnepel.pdf
+
+265. Semenza, Daniel; Grosholz, Jessica M., "Mental and physical health
+comorbidity as a strain for inmate misconduct." Presented at the American
+Society of Criminology 2017 Annual Meeting, American Society of
+Criminology, Philadelphia, PA, Nov 16, 2017.
+Abstract: http://tinyurl.com/yad5h2pn
+
+266. Severson, Rachel E., "Gender differences in mental health,
+institutional misconduct, and disciplinary segregation." Criminal Justice
+and Behavior. in press 2019,. DOI: 10.1177/0093854819869039
+Abstract: http://tinyurl.com/yad5h2pn
+
+267. Severson, Rachel E., "Mental Health and In-Prison Experiences:
+Examining Socioeconomic and Sex Differences in the Effect of Mental Illness
+on Institutional Misconduct and Disciplinary Segregation." Dissertation,
+University of South Florida, 2020.
+Abstract: http://tinyurl.com/yad5h2pn
+
+268. Severson, Rachel E.; Toman, Elisa L.; Alvarado, Micaela, "Mental
+health service utilization: General and gendered consequences for prison
+strains." Crime and Delinquency. Nov 2020, 66, (12), 1754 - 1786. DOI:
+10.1177/0011128720937294
+Abstract: http://tinyurl.com/yad5h2pn
+
+269. Sevigny, Eric L.; Allen, Andrea, "Gun carrying among drug market
+participants: Evidence from incarcerated drug offenders." Journal of
+Quantitative Criminology. Sep 2015, 31, (3), 435 - 458. DOI:
+10.1007/s10940-014-9233-6
+Abstract: http://tinyurl.com/yad5h2pn
+
+270. Sevigny, Eric L.; Pollack, Harold A.; Reuter, Peter, "Can drug courts
+help to reduce prison and jail populations?." Annals of the American
+Academy of Political and Social Science. May 2013, 647, (1), 190 - 212.
+DOI: 10.1177/0002716213476258
+Abstract: http://tinyurl.com/yad5h2pn
+
+271. Sexton, Lori; Jenness, Valerie; Sumner, Jennifer Macy, "Where the
+margins meet: A demographic assessment of transgender inmates in men's
+prisons." Justice Quarterly. Dec 2010, 27, (6), 835 - 866. DOI:
+10.1080/07418820903419010
+Abstract: http://tinyurl.com/yad5h2pn
+
+272. Shammi, Suraiya H., "Social Support, Mental Health Problems, and Rule
+Infractions: A Study of Female Inmates." Thesis, Illinois State University,
+2020.
+Abstract: http://tinyurl.com/yad5h2pn
+
+273. Shaw, Olivia, "The Effects of Correctional Education on Prison
+Misconduct." Thesis, University of North Carolina, 2021.
+Abstract: http://tinyurl.com/yad5h2pn
+
+274. Sheehan, Connor, "Institutional Context of Health Across the Life
+Course in the United States." Dissertation, University of Texas, 2017.
+Abstract: http://hdl.handle.net/2152/62263
+
+275. Sheehan, Connor M., "Education and health conditions among the
+currently incarcerated and the non-incarcerated populations." Population
+Research and Policy Review. in press 2018,. DOI: 10.1007/s11113-018-9496-y
+Abstract: http://hdl.handle.net/2152/62263
+
+276. Sherard-Redman, Melody, "The Effects of Parenthood on Incarcerated
+Men: An Analysis of Prison Program Participation and Rule Breaking in a
+National Sample of Incarcerated Men." Thesis, University of Akron, 2016.
+Abstract: http://hdl.handle.net/2152/62263
+
+277. Shicker, Louis, "Overview of correctional medicine." Disease-a-Month.
+May 2014, 60, (5), 170 - 195. DOI: 10.1016/j.disamonth.2014.03.011
+Abstract: http://hdl.handle.net/2152/62263
+
+278. Sillaman, Alisha, "Victimization and the Impact on Inmate Behavior."
+Thesis, University of Baltimore, 2018.
+Abstract: http://hdl.handle.net/11603/10804
+
+279. Small, David, "An Examination of the Criminalization of Mental Illness
+in North Carolina State Prisons." Thesis, University of North Carolina,
+2022.
+Abstract: http://hdl.handle.net/11603/10804
+
+280. Smith Ruiz, Dorothy; Kopak, Albert, "The consequences of parental
+incarceration for African American mothers, children, and grandparent
+caregivers." Journal of Pan African Studies. Nov 2014, 7, (6), 9 - 24.
+Abstract: http://hdl.handle.net/11603/10804
+
+281. Snider, Catherine R., "An Assessment of the Association Between Prison
+Program Participation and Misconduct." Thesis, Indiana University of
+Pennsylvania, 2022.
+Abstract: http://hdl.handle.net/11603/10804
+
+282. Solinas-Saunders, Monica; Stacer, Melissa J., "A retrospective
+analysis of repeated incarceration using a national sample: What makes
+female inmates different from male inmates?." Victims and Offenders. Nov
+2016, 12, (1), 138 - 173. DOI: 10.1080/15564886.2015.1101033
+Abstract: http://hdl.handle.net/11603/10804
+
+283. Solinas-Saunders, Monica; Stacer, Melissa J., "Prison resources and
+physical/verbal assault in prison: A comparison of male and female
+inmates." Victims and Offenders. 2012, 7, (3), 279 - 311. DOI:
+10.1080/15564886.2012.685218
+Abstract: http://hdl.handle.net/11603/10804
+
+284. Stacer, Melissa J., "Incarceration Disparities: Prison Inmates and the
+Federalization of Crime." Dissertation, Purdue University, 2010.
+Abstract: http://hdl.handle.net/11603/10804
+
+285. Stacer, Melissa J., "The interaction of race/ethnicity and mental
+health problems on visitation in state correctional facilities." Journal of
+Ethnicity in Criminal Justice. 2012, 10, (1), 1 - 23. DOI:
+10.1080/15377938.2011.609395
+Abstract: http://hdl.handle.net/11603/10804
+
+286. Stacer, Melissa J.; Solinas-Saunders, Monica, "Physical and verbal
+assaults behind bars: Does military experience matter?." Prison Journal.
+Jun 2015, 95, (2), 199 - 222. DOI: 10.1177/0032885515575267
+Abstract: http://hdl.handle.net/11603/10804
+
+287. Stackman, Valerie R., "Testing General Strain Theory on Female
+Inmates: A Comparison of Two Measures of Negative Emotion." Dissertation,
+Howard University, 2011.
+Abstract: http://hdl.handle.net/11603/10804
+
+288. Steiner, Benjamin; Meade, Benjamin, "Assessing the Relationship
+between Exposure to Violence and Inmate Maladjustment Within and Across
+State Correctional Facilities." Final Report. NCJ 243901, Oct 2013. 2011-
+IJ-CX-0003
+Full text PDF: https://www.ncjrs.gov/pdffiles1/nij/grants/243901.pdf
+
+289. Steiner, Benjamin; Meade, Benjamin, "Assessing the link between
+exposure to a violent prison context and inmate maladjustment." Journal of
+Contemporary Criminal Justice. Nov 2016, 32, (4), 328 - 356. DOI:
+10.1177/1043986216660009
+Full text PDF: https://www.ncjrs.gov/pdffiles1/nij/grants/243901.pdf
+
+290. Stober, Emmanuel, "The race warfare and the United States justice
+system." Journal of Humanities and Social Sciences Studies. 2020, 2, (6), 1
+- 14. DOI: 10.32996/jhsss.2020.2.6.1
+Full text PDF: https://www.ncjrs.gov/pdffiles1/nij/grants/243901.pdf
+
+291. Stoliker, Bryce E., "'I Don't Want to Be Alive': Suicidal Ideation and
+Attempted Suicide Among Prison Inmates." Dissertation, Simon Fraser
+University, 2020.
+Abstract: https://summit.sfu.ca/item/20524
+
+292. Stoliker, Bryce E., "Attempted suicide: A multilevel examination of
+inmate characteristics and prison context." Criminal Justice and Behavior.
+May 2018, 45, (5), 589 - 611. DOI: 10.1177/0093854818754609
+Abstract: https://summit.sfu.ca/item/20524
+
+293. Stoliker, Bryce E., "Inmate mental health predicting the likelihood of
+physical and verbal assault on correctional staff." Journal for Social
+Thought. Jul 2016, 1, (1), 1 - 16.
+Full text PDF: https://ir.lib.uwo.ca/cgi/viewcontent.cgi?article=1003&context=jst
+
+294. Stoliker, Bryce E., "The heterogeneity of suicide attempters: An
+analysis of single- and repeat-suicide attempters among people in custody."
+Criminal Justice and Behavior. in press 2021,. DOI:
+10.1177/0093854820983853
+Full text PDF: https://ir.lib.uwo.ca/cgi/viewcontent.cgi?article=1003&context=jst
+
+295. Stoliker, Bryce E.; Galli, Philip M., "Prevalence and correlates of
+suicidal ideation and attempt according to prisoners' race/ethnicity: An
+exploratory analysis." Race and Social Problems. in press 2021,. DOI:
+10.1007/s12552-020-09310-3
+Full text PDF: https://ir.lib.uwo.ca/cgi/viewcontent.cgi?article=1003&context=jst
+
+296. Stoliker, Bryce E.; Galli, Phillip M., "An examination of mental
+health and psychiatric care among older prisoners in the United States."
+Victims and Offenders. 2019, 14, (4), 480 - 509. DOI:
+10.1080/15564886.2019.1608883
+Full text PDF: https://ir.lib.uwo.ca/cgi/viewcontent.cgi?article=1003&context=jst
+
+297. Stoliker, Bryce E.; Varanese, Joseph, "Spending the golden years
+behind bars: Predictors of mental health issues among geriatric prisoners."
+Victims and Offenders. 2017, 12, (5), 718 - 740. DOI:
+10.1080/15564886.2016.1170086
+Full text PDF: https://ir.lib.uwo.ca/cgi/viewcontent.cgi?article=1003&context=jst
+
+298. Stoliker, Bryce E.; Verdun-Jones, Simon N.; Vaughan, Adam D.,
+"Psychological and sociological perspectives on suicide: A multi-level
+examination of suicidal thoughts and attempted suicide among prisoners."
+Archives of Suicide Research. in press 2020,. DOI:
+10.1080/13811118.2020.1738294
+Full text PDF: https://ir.lib.uwo.ca/cgi/viewcontent.cgi?article=1003&context=jst
+
+299. Stoliker, Bryce E.; Verdun-Jones, Simon N.; Vaughan, Adam D., "The
+relationship between age and suicidal thoughts and attempted suicide among
+prisoners." Health and Justice. Dec 2020, 8, (1),. DOI: 10.1186/s40352-020-
+00117-3
+Full text PDF: https://ir.lib.uwo.ca/cgi/viewcontent.cgi?article=1003&context=jst
+
+300. Stretesky, Paul B., "National case-control study of homicide offending
+and methamphetamine uses." Journal of Interpersonal Violence. Jun 2009, 24,
+(6), 911 - 924. DOI: 10.1177/0886260508325011
+Full text PDF: https://ir.lib.uwo.ca/cgi/viewcontent.cgi?article=1003&context=jst
+
+301. Stringer, Ebonie C.; Barnes, Sandra L., "Mothering while imprisoned:
+The effects of family and child dynamics on mothering attitudes." Family
+Relations. Apr 2012, 61, (2), 313 - 326. DOI: 10.1111/j.1741-
+3729.2011.00696.x
+Full text PDF: https://ir.lib.uwo.ca/cgi/viewcontent.cgi?article=1003&context=jst
+
+302. Substance Abuse and Mental Health Services Administration, "Behavioral
+Health, United States, 2012." Substance Abuse and Mental Health Services
+Administration. (SMA) 13-4797, Rockville, MD: Substance Abuse and Mental
+Health Services Administration, 2013.
+Full text PDF: http://media.samhsa.gov/data/2012BehavioralHealthUS/2012-BHUS.pdf
+
+303. Substance Abuse and Mental Health Services Administration, "Mental
+Health, United States, 2008." Rockville, MD: Substance Abuse and Mental
+Health Services Administration, Center for Mental Health Services, 2010.
+Abstract: http://store.samhsa.gov/product/Mental-Health-United-States-2008/SMA10-4590
+Full text PDF: http://store.samhsa.gov/shin/content//SMA10-4590/SMA10-4590.pdf
+
+304. Sung, Hung-En, "Prevalence and risk factors of violence-related and
+accident-related injuries among state prisoners." Journal of Correctional
+Health Care. 2010, 16, (3), 178 - 187. DOI: 10.1177/1078345810366287
+Abstract: http://store.samhsa.gov/product/Mental-Health-United-States-2008/SMA10-4590
+Full text PDF: http://store.samhsa.gov/shin/content//SMA10-4590/SMA10-4590.pdf
+
+305. Sykes, Bryan L.; Bailey, Amy K., "Institutional castling: Military
+enlistment and mass incarceration in the United States." RSF: The Russell
+Sage Foundation Journal of the Social Sciences. Mar 2020, 6, (1), 30 - 54.
+DOI: 10.7758/RSF.2020.6.1.02
+Abstract: http://store.samhsa.gov/product/Mental-Health-United-States-2008/SMA10-4590
+Full text PDF: http://store.samhsa.gov/shin/content//SMA10-4590/SMA10-4590.pdf
+
+306. Sykes, Bryan L.; Hoppe, Trevor A.; Maziarka, Kristen D., "Cruel
+intentions? HIV prevalence and criminalization during an age of mass
+incarceration, U.S. 1999 to 2012." Medicine. Apr 2016, 95, (16), 1 - 9.
+DOI: 10.1097/MD.0000000000003352
+Abstract: http://store.samhsa.gov/product/Mental-Health-United-States-2008/SMA10-4590
+Full text PDF: http://store.samhsa.gov/shin/content//SMA10-4590/SMA10-4590.pdf
+
+307. Sykes, Bryan L.; Maroto, Michelle, "A wealth of inequalities: Mass
+incarceration, employment, and racial disparities in U.S. household wealth,
+1996 to 2011." RSF: The Russell Sage Foundation Journal of the Social
+Sciences. Nov 2016, 2, (6), 129 - 152.
+Abstract: http://store.samhsa.gov/product/Mental-Health-United-States-2008/SMA10-4590
+Full text PDF: http://store.samhsa.gov/shin/content//SMA10-4590/SMA10-4590.pdf
+
+308. Sykes, Bryan L.; Pettit, Becky, "Choice or Constraint? Mass
+Incarceration and Fertility Outcomes Among American Men." Seattle, WA:
+University of Washington, Department of Sociology, Mar 2010..
+Full text PDF: http://faculty.washington.edu/blsykes/Publications_files/fertility_incarceration_v8-1.pdf
+
+309. Sykes, Bryan L.; Pettit, Becky, "Mass incarceration, family
+complexity, and the reproduction of childhood disadvantage." Annals of the
+American Academy of Political and Social Science. Jul 2014, 654, (1), 127 -
+149. DOI: 10.1177/0002716214526345
+Full text PDF: http://faculty.washington.edu/blsykes/Publications_files/fertility_incarceration_v8-1.pdf
+
+310. Sykes, Bryan L.; Piquero, Alex R., "Structuring and re-creating
+inequality: Health testing policies, race, and the criminal justice
+system." Annals of the American Academy of Political and Social Science.
+May 2009, 623, (1), 214 - 227. DOI: 10.1177/0002716208330486
+Full text PDF: http://faculty.washington.edu/blsykes/Publications_files/fertility_incarceration_v8-1.pdf
+
+311. Tahamont, Sarah, "Essays on the Effects of Correctional Policies on
+Prison Misconduct." Dissertation, University of California, 2013.
+Abstract: https://escholarship.org/uc/item/4wx0994k
+
+312. Taylor, Kiersten B., "Criminal Immigrants in the U.S. Correctional
+System: Does U.S. Nativity Affect Prison Misconduct?." Thesis, Sam Houston
+State University, 2018.
+Abstract: http://hdl.handle.net/20.500.11875/2379
+
+313. Teasdale, Brent; Daigle, Leah E.; Hawk, Shila R.; Daquin, Jane C.,
+"Violent victimization in the prison context: An examination of the
+gendered contexts of prison." International Journal of Offender Therapy and
+Comparative Criminology. Jul 2016, 60, (9), 995 - 1015. DOI:
+10.1177/0306624X15572351
+Abstract: http://hdl.handle.net/20.500.11875/2379
+
+314. The White House, "National Drug Control Strategy." Data Supplement
+2008. NCJ 221951, Washington, DC: Office of National Drug Control Policy,
+Jul 2008.
+Full text PDF: http://www.whitehousedrugpolicy.gov/publications/policy/ndcs08_data_supl/ndcs_suppl08.pdf
+
+315. The White House, "National Drug Control Strategy: Data Supplement
+2009." NCJ 225448, Washington, DC: Office of National Drug Control Policy,
+Jan 2009.
+Full text PDF: http://www.whitehousedrugpolicy.gov/publications/policy/ndcs09/ndcs09_data_supl/09datasupplement.pdf
+
+316. Thomas, Michael, "An Exploration of Recidivism Based on Education and
+Race." Dissertation, Walden University, 2020.
+Full text PDF: http://www.whitehousedrugpolicy.gov/publications/policy/ndcs09/ndcs09_data_supl/09datasupplement.pdf
+
+317. Thompson, Melissa; Uggen, Christopher, "Dealers, thieves, and the
+common determinants of drug and nondrug illegal earnings." Criminology.
+2012, 50, (4), 1057 - 1087. DOI: 10.1111/j.1745-9125.2012.00286.x
+Full text PDF: http://www.whitehousedrugpolicy.gov/publications/policy/ndcs09/ndcs09_data_supl/09datasupplement.pdf
+
+318. Tietjen, Grant E.; Garneau, Christopher R.H.; Horowitz, Veronica;
+Noel, HarmoniJoie, "Showing up: The gendered effects of social engagement
+on educational participation in U.S. correctional facilities." Prison
+Journal. Jun 2018, 98, (3), 359 - 381. DOI: 10.1177/0032885518764921
+Full text PDF: http://www.whitehousedrugpolicy.gov/publications/policy/ndcs09/ndcs09_data_supl/09datasupplement.pdf
+
+319. Toman, Elisa L., "The victim-offender overlap behind bars: Linking
+prison misconduct and victimization." Justice Quarterly. 2019, 36, (2), 350
+- 382. DOI: 10.1080/07418825.2017.1402072
+Full text PDF: http://www.whitehousedrugpolicy.gov/publications/policy/ndcs09/ndcs09_data_supl/09datasupplement.pdf
+
+320. Toman, Elisa L.; Cochran, Joshua C.; Cochran, John K., "Jailhouse
+blues? The adverse effects of pretrial detention for prison social order."
+Criminal Justice and Behavior. Mar 2018, 45, (3), 316 - 339. DOI:
+10.1177/0093854817753018
+Full text PDF: http://www.whitehousedrugpolicy.gov/publications/policy/ndcs09/ndcs09_data_supl/09datasupplement.pdf
+
+321. Vittes, Katherine A.; Vernick, Jon S.; Webster, Daniel W., "Legal
+status and source of offenders' firearms in states with the least stringent
+criteria for gun ownership." Injury Prevention. 2013, 19, (1), 26 - 31.
+DOI: 10.1136/injuryprev-2011-040290
+Full text PDF: http://www.whitehousedrugpolicy.gov/publications/policy/ndcs09/ndcs09_data_supl/09datasupplement.pdf
+
+322. Vittes, Katherine; Webster, Daniel C.; Vernick, Jon S., "Association
+between Firearm Sales Regulations and the Source of Handguns to Criminal
+Offenders in the United States." Presented at the 141st APHA Annual
+Meeting, American Public Health Association, Boston, MA, Nov 2013.
+Full text PDF: http://www.whitehousedrugpolicy.gov/publications/policy/ndcs09/ndcs09_data_supl/09datasupplement.pdf
+
+323. Vuk, Mateja; Dolezal, Dalibor, "Idleness and inmate misconduct in
+local jails: A correlational study." Presented at the American Society of
+Criminology 2018 Annual Meeting, American Society of Criminology, Atlanta,
+GA, Nov 15, 2018.
+Abstract: http://tinyurl.com/ya837e54
+
+324. Vuk, Mateja; Sevigny, Eric, "The Relationship between Inmate Time
+Utilization and Prison Misconduct." Presented at the 53rd Annual Meeting,
+Academy of Criminal Justice Sciences, Denver, CO, Mar/Apr 2016.
+Abstract: http://www.acjs.org/uploads/file/ACJS2016_Abstracts.pdf
+
+325. Vuk, Mateja; Sevigny, Eric, "The relationship between inmate time
+utilization and
+prison misconduct." Presented at the Annual meeting of the Academy of
+Criminal Justice
+Sciences, Denver, CO, Mar-Apr 2016.
+Abstract: http://www.acjs.org/uploads/file/ACJS2016_Abstracts.pdf
+
+326. Wade-Olson, Jeremiah, Punishing the Vulnerable: Discrimination in
+American Prisons. Santa Barbara, CA: Praeger, 2019.
+Abstract: http://www.acjs.org/uploads/file/ACJS2016_Abstracts.pdf
+
+327. Webster, Daniel W.; Vernick, Jon S.; McGinty, Emma E.; Alcorn, Ted,
+"Preventing the diversion of guns to criminals through effective firearm
+sales laws." In Webster, Daniel W.; Vernick, Jon S., Reducing Gun Violence
+in America: Informing Policy with Evidence and Analysis. 109 - 121,
+Baltimore, MD: John Hopkins University Press,2013.
+Abstract: http://www.acjs.org/uploads/file/ACJS2016_Abstracts.pdf
+
+328. Western, Bruce, "Inside the box: Safety, health, and isolation in
+prison." Journal of Economic Perspectives. Fal 2021, 35, (4), 97 - 122.
+DOI: 10.1257/jep.35.4.97
+Abstract: http://www.acjs.org/uploads/file/ACJS2016_Abstracts.pdf
+
+329. Whichard, Corey; Felson, Richard B., "Are suspects who resist arrest
+defiant, desperate, or disoriented?." Journal of Research in Crime and
+Delinquency. Jul 2016, 53, (4), 564 - 591. DOI: 10.1177/0022427816632571
+Abstract: http://www.acjs.org/uploads/file/ACJS2016_Abstracts.pdf
+
+330. White, Norman A., "The third world near you: The American racial
+divide." In Yeakey, Carol; Thompson, Vetta L.; Wells, Anjanette, Urban
+Ills: Twenty-First-Century Complexities of Urban Living in Global Contexts.
+379 - 402, New York, NY: Lexington Books,2014.
+Abstract: http://www.acjs.org/uploads/file/ACJS2016_Abstracts.pdf
+
+331. Wildeman, Christopher, "Parental imprisonment, the prison boom, and
+the concentration of childhood disadvantage." Demography. May 2009, 46,
+(2), 265 - 280.
+Abstract: http://www.acjs.org/uploads/file/ACJS2016_Abstracts.pdf
+
+332. Wildeman, Christopher J., "Parental Incarceration, the Prison Boom,
+and the Intergenerational Transmission of Stigma and Disadvantage." Thesis,
+Princeton University, 2008.
+Abstract: http://www.acjs.org/uploads/file/ACJS2016_Abstracts.pdf
+
+333. Wildeman, Christopher; Fitzpatrick, Maria D.; Goldman, Alyssa W.,
+"Conditions of confinement in American prisons and jails." Annual Review of
+Law and Social Science. Oct 2018, 14, 29 - 47. DOI: 10.1146/annurev-
+lawsocsci-101317-031025
+Abstract: http://www.acjs.org/uploads/file/ACJS2016_Abstracts.pdf
+
+334. Wildeman, Christopher; Turney, Kristin, "Positive, negative, or null?
+The effects of maternal incarceration on children's behavioral problems."
+Demography. Jun 2014, 51, (3), 1041 - 1068. DOI: 10.1007/s13524-014-0291-z
+Abstract: http://www.acjs.org/uploads/file/ACJS2016_Abstracts.pdf
+
+335. Williams, Brie A.; McGuire, James; Lindsay, Rebecca G.; Baillargeon,
+Jacques; Stikacic Cenzer, Irena; Lee, Sei J.; Kushel, Margot, "Coming home:
+Health status and homelessness risk of older pre-release prisons." Journal
+of General Internal Medicine. 2010, 25, (4), 1038 - 1044. DOI:
+10.1007/s11606-010-1416-8
+Abstract: http://www.acjs.org/uploads/file/ACJS2016_Abstracts.pdf
+
+336. Williamson, Bethany, E., "Effects of Learning Disabilities on Social
+Reactions to Prison Inmates." Thesis, University of Wyoming, 2013.
+Abstract: http://www.acjs.org/uploads/file/ACJS2016_Abstracts.pdf
+
+337. Willison, Judith S., "Characteristics of violent crime committed by
+female prisoners." Violence and Victims. Jun 2016, 31, (3), 552 - 570. DOI:
+10.1891/0886-6708.VV-D-14-00027
+Abstract: http://www.acjs.org/uploads/file/ACJS2016_Abstracts.pdf
+
+338. Willison, Judith S., "Living at Risk: The Intersection of Individual,
+Structural, and Contextual Risk Correlates among Women Incarcerated for
+Violent Crime." Dissertation, Simmons College, 2011.
+Abstract: http://www.acjs.org/uploads/file/ACJS2016_Abstracts.pdf
+
+339. Wilper, Andrew P.; Woolhandler, Steffie; Boyd, J. Wesley; Lasser,
+Karen E.; McCormick, Danny; Bor, David H.; Himmelstein, David U., "The
+health and health care of US prisoners: Results of a nationwide survey."
+American Journal of Public Health. Apr 2009, 99, (4), 666 - 672. DOI:
+10.2105/AJPH.2008.144279
+Abstract: http://www.acjs.org/uploads/file/ACJS2016_Abstracts.pdf
+
+340. Wiseman, Jane, "Incidence and Prevalence of Sexual Offending." Sex
+Offender Management Assessment and Planning  Initiative. NCJ 247059,
+Washington, DC: Office of Justice Programs, Office of Sex Offender
+Sentencing, Monitoring, Apprehending, Registering and Tracking, Oct 2014.
+Full text: http://ojp.gov/smart/SOMAPI/sec1/ch1_incidence.html
+Full text PDF: http://www.smart.gov/SOMAPI/printerFriendlyPDF/adult-sec1.pdf
+
+341. Wood, Steven R., "Co-occurring psychiatric and substance dependence
+disorders as predictors of parolee time to rearrest." Journal of Offender
+Rehabilitation. 2011, 50, (4), 175 - 190. DOI: 10.1080/10509674.2011.571076
+Full text: http://ojp.gov/smart/SOMAPI/sec1/ch1_incidence.html
+Full text PDF: http://www.smart.gov/SOMAPI/printerFriendlyPDF/adult-sec1.pdf
+
+342. Wood, Steven R., "Dual severe mental and substance use disorders as
+predictors of federal inmate assaults." Prison Journal. Mar 2013, 93, (1),
+34 - 56. DOI: 10.1177/0032885512467312
+Full text: http://ojp.gov/smart/SOMAPI/sec1/ch1_incidence.html
+Full text PDF: http://www.smart.gov/SOMAPI/printerFriendlyPDF/adult-sec1.pdf
+
+343. Wood, Steven R., "State prisoner misconduct: Contribution of dual
+psychiatric and substance use disorders ." International Journal of
+Forensic Mental Health. 2014, 13, (4), 279 - 294. DOI:
+10.1080/14999013.2014.951108
+Full text: http://ojp.gov/smart/SOMAPI/sec1/ch1_incidence.html
+Full text PDF: http://www.smart.gov/SOMAPI/printerFriendlyPDF/adult-sec1.pdf
+
+344. Wood, Steven R.; Buttaro, Anthony, Jr., "Co-occurring severe mental
+illnesses and substance abuse disorders as predictors of state prison
+inmate assaults." Crime and Delinquency. Jun 2013, 59, (4), 510 - 535. DOI:
+10.1177/0011128712470318
+Full text: http://ojp.gov/smart/SOMAPI/sec1/ch1_incidence.html
+Full text PDF: http://www.smart.gov/SOMAPI/printerFriendlyPDF/adult-sec1.pdf
+
+345. Wooditch, Alese; Johnson, Nicole J.; Solymosi, Reka; Ariza, Juanjo;
+Langton, Samuel, "Measures of dispersion." In A Beginner's Guide to
+Statistics for Criminology and Criminal Justice Using R. 77 - 88, Cham,
+Switzerland: Springer,2021. DOI: 10.1007/978-3-030-50625-4_5
+Full text: http://ojp.gov/smart/SOMAPI/sec1/ch1_incidence.html
+Full text PDF: http://www.smart.gov/SOMAPI/printerFriendlyPDF/adult-sec1.pdf
+
+346. Young, Zachary R., "Heavy Handed: A Multi-Level Approach to
+Understanding Regional Variation in the Use of Force By Police." Thesis,
+University of Western Ontario, 2012.
+Full text: http://ojp.gov/smart/SOMAPI/sec1/ch1_incidence.html
+Full text PDF: http://www.smart.gov/SOMAPI/printerFriendlyPDF/adult-sec1.pdf
+
+347. Zarkin, Gary A.; Cowell, Alexander J.; Hicks, Katherine A.; Mills,
+Michael J.; Belenko, Steven; Dunlap, Laura J.; Houser, Kimberly A.; Keyes,
+Vince, "Benefits and costs of substance abuse treatment programs for state
+prison inmates: Results from a lifetime simulation model." Health
+Economics. Jun 2012, 21, (6), 633 - 652. DOI: 10.1002/hec.1735
+Full text: http://ojp.gov/smart/SOMAPI/sec1/ch1_incidence.html
+Full text PDF: http://www.smart.gov/SOMAPI/printerFriendlyPDF/adult-sec1.pdf
+
+348. Zarkin, Gary A.; Cowell, Alexander J.; Hicks, Katherine A.; Mills,
+Michael J.; Belenko, Steven; Dunlap, Laura J.; Keyes, Vincent, "Lifetime
+benefits and costs of diverting substance-abusing offenders from state
+prison." Crime and Delinquency. Aug 2015, 61, (6), 829 - 850. DOI:
+10.1177/0011128712461904
+Full text: http://ojp.gov/smart/SOMAPI/sec1/ch1_incidence.html
+Full text PDF: http://www.smart.gov/SOMAPI/printerFriendlyPDF/adult-sec1.pdf
+
+349. Zatz, Noah; Koonse, Tia; Zhen, Theresa; Herrera, Lucero; Lu, Han;
+Shafer, Steven; Valenta, Blake, "Get To Work or Go To Jail: Workplace
+Rights Under Threat." Research Brief. Los Angeles, CA: University of
+California: Los Angeles, Institute for Research on Labor and Employment,
+Mar 2016.
+Full text: http://ojp.gov/smart/SOMAPI/sec1/ch1_incidence.html
+Full text PDF: http://www.smart.gov/SOMAPI/printerFriendlyPDF/adult-sec1.pdf
+
+350. Zhang, Zhihao; Huang, Zhaohua; Wan, Zhongbao; Meng, Lingci,
+"Comparative analysis of machine learning models for recidivism prediction
+based on chi-square test." Presented at the 2021 International Conference
+on Intelligent Computing, Automation and Applications (ICAA), International
+Conference on Intelligent Computing, Automation and Applications, Nanjing,
+China, Jun 25-27, 2021. DOI: 10.1109/ICAA53760.2021.00012
+Full text: http://ojp.gov/smart/SOMAPI/sec1/ch1_incidence.html
+Full text PDF: http://www.smart.gov/SOMAPI/printerFriendlyPDF/adult-sec1.pdf
+
+351. Zhao, Qianwei; Cepeda, Alice; Chou, Chih-Ping; Valdez, Avelardo,
+"Incarceration trajectories and mental health problems among mothers
+imprisoned in state and federal correctional facilities: A nationwide
+study." International Journal of Mental Health and Addiction. in press
+2021,. DOI: 10.1007/s11469-021-00608-w
+Full text: http://ojp.gov/smart/SOMAPI/sec1/ch1_incidence.html
+Full text PDF: http://www.smart.gov/SOMAPI/printerFriendlyPDF/adult-sec1.pdf
+
+352. Zhao, Qianwei; Cepeda, Alice; Chou, Chih-Ping; Valdez, Avelardo,
+"Incarceration trajectories of women who are mothers: A nationally
+representative study of state and federal prisoners." Crime and
+Delinquency. Sep 2021, 67, (10), 1513 - 1535. DOI: 10.1177/0011128720974315
+Full text: http://ojp.gov/smart/SOMAPI/sec1/ch1_incidence.html
+Full text PDF: http://www.smart.gov/SOMAPI/printerFriendlyPDF/adult-sec1.pdf
+
+353. Zhao, Qianwei; Cepeda, Alice; Chou, Chih-Ping; Valdez, Avelardo,
+"Maternal incarceration trajectories and the intergenerational transmission
+of imprisonment: A nationwide study." Children and Youth Services Review.
+Nov 2020, 118,. DOI: 10.1016/j.childyouth.2020.105461
+Full text: http://ojp.gov/smart/SOMAPI/sec1/ch1_incidence.html
+Full text PDF: http://www.smart.gov/SOMAPI/printerFriendlyPDF/adult-sec1.pdf
