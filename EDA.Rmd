@@ -36,19 +36,147 @@ theme_set(theme_minimal() + theme(legend.position = "bottom"))
 federal_df <- load("./data/04572-0001-Data.rda") 
 
 federal_df <- da04572.0001%>% 
-  select(V2288, V2289, V2290, V2291, MCMH_HIVTEST, MCMH_RSLT_HIV, DRUG_INJECT_CB, V2401, V2402, V2403, V2404, V2405, V2406, V2407, V2409, V2412, MCMH_MH_TREATMENT_PA, MCMH_MH_TREATMENT_AD, MCMH_MENTAL_HISTORY, V1197, CS_SENTENCEMTH,CH_PRIORSENTENCE, CH_PRIORSENTENCE_NUM, CH_CRIMHIST, CH_CRIMHIST_COLLAPSED, CH_NUMCAR,CH_NUMCAR1, CH_NUMCAR2, CH_NUMCAR3, CH_NUMCAR4, CH_NUMCAR5, MOST_SERIOUS_OFFENSE2, TYPEOFFENSE, V1056, V1057, V1060, V1061, V1325, V0001, V0014, AGE_CAT, V2982, V0005, EDUCATION, SES_INCOMEMTH, DRUG_ANY, DRUG_ANYREG, DRUG_ANYMTH, SES_PHYSSEXABUSED_EVER, SES_PARENTS_INCARCERATED, SES_FAMILY_INCARCERATED)
+  select(V2288, V2289, V2290, V2291, MCMH_HIVTEST, MCMH_RSLT_HIV, DRUG_INJECT_CB, V2401, V2402, V2403, V2404, V2405, V2406, V2407, V2409, V2412, MCMH_MH_TREATMENT_PA, MCMH_MH_TREATMENT_AD, MCMH_MENTAL_HISTORY, V1197, CS_SENTENCEMTH,CH_PRIORSENTENCE, CH_PRIORSENTENCE_NUM, CH_CRIMHIST, CH_CRIMHIST_COLLAPSED, CH_NUMCAR,CH_NUMCAR1, CH_NUMCAR2, CH_NUMCAR3, CH_NUMCAR4, CH_NUMCAR5, MOST_SERIOUS_OFFENSE2, TYPEOFFENSE, V1056, V1057, V1060, V1061, V1325, V0001, V0014, AGE_CAT, V2982, V0005, EDUCATION, SES_INCOMEMTH, DRUG_ANY, DRUG_ANYREG, DRUG_ANYMTH, SES_PHYSSEXABUSED_EVER, SES_PARENTS_INCARCERATED, SES_FAMILY_INCARCERATED, V0105, MCMH_WHEN_DISORDER,
+ MCMH_WHEN_DISORDER2,
+MCMH_MHOSPYR,
+MCMH_MHOSPADM,
+MCMH_MHOSPYRADM,
+MCMH_SMI)
 
 
 state_df <- load("./data/04572-0002-Data.rda") 
 
 state_df <- da04572.0002%>% 
-  select(V2288, V2289, V2290, V2291, MCMH_HIVTEST, MCMH_RSLT_HIV, DRUG_INJECT_CB, V2401, V2402, V2403, V2404, V2405, V2406, V2407, V2409, V2412, MCMH_MH_TREATMENT_PA, MCMH_MH_TREATMENT_AD, MCMH_MENTAL_HISTORY, V1197, CS_SENTENCEMTH,CH_PRIORSENTENCE, CH_PRIORSENTENCE_NUM, CH_CRIMHIST, CH_CRIMHIST_COLLAPSED, CH_NUMCAR,CH_NUMCAR1, CH_NUMCAR2, CH_NUMCAR3, CH_NUMCAR4, CH_NUMCAR5, MOST_SERIOUS_OFFENSE2, TYPEOFFENSE, V1056, V1057, V1060, V1061, V1325, V0001, V0014, AGE_CAT, V2982, V0005, EDUCATION, SES_INCOMEMTH, DRUG_ANY, DRUG_ANYREG, DRUG_ANYMTH, SES_PHYSSEXABUSED_EVER, SES_PARENTS_INCARCERATED, SES_FAMILY_INCARCERATED)
+  select(V2288, V2289, V2290, V2291, MCMH_HIVTEST, MCMH_RSLT_HIV, DRUG_INJECT_CB, V2401, V2402, V2403, V2404, V2405, V2406, V2407, V2409, V2412, MCMH_MH_TREATMENT_PA, MCMH_MH_TREATMENT_AD, MCMH_MENTAL_HISTORY, V1197, CS_SENTENCEMTH,CH_PRIORSENTENCE, CH_PRIORSENTENCE_NUM, CH_CRIMHIST, CH_CRIMHIST_COLLAPSED, CH_NUMCAR,CH_NUMCAR1, CH_NUMCAR2, CH_NUMCAR3, CH_NUMCAR4, CH_NUMCAR5, MOST_SERIOUS_OFFENSE2, TYPEOFFENSE, V1056, V1057, V1060, V1061, V1325, V0001, V0014, AGE_CAT, V2982, V0005, EDUCATION, SES_INCOMEMTH, DRUG_ANY, DRUG_ANYREG, DRUG_ANYMTH, SES_PHYSSEXABUSED_EVER, SES_PARENTS_INCARCERATED, SES_FAMILY_INCARCERATED, V2955)
 ```
 
 ```{r}
+#Interview outcome
+da04572.0001 %>% 
+  count(V0003)
+
+#Sex
+da04572.0001 %>% 
+  count(V0004)
+
+#US Citizen
+da04572.0001%>% 
+  count(V0051)
+
+#HIGHEST EDUCATION BEFORE ARREST
+da04572.0001%>% 
+  count(EDUCATION)
+
+
+```
+
+
+# HIV 
+```{r}
+#HIV tested
 federal_df %>% 
   group_by(V2288) %>% 
   summarize(n_obs = n()) %>% 
   knitr:: kable()
+
+federal_df %>% 
+  group_by( V2288) %>% 
+  summarize(n_obs = n()) %>% 
+  ungroup() %>% 
+  ggplot(aes(x = V2288, y = n_obs, fill = V2288)) +
+  theme(axis.text.x = element_text(angle = 90, vjust = .5, hjust = 1)) +
+  geom_bar(stat = "identity") 
+
+#HIV test result
+federal_df%>% 
+   group_by(MCMH_RSLT_HIV) %>%
+  summarise(n_obs = n()) %>%
+   mutate(
+    MCMH_RSLT_HIV = fct_reorder(MCMH_RSLT_HIV, n_obs) 
+  )%>% 
+  ggplot(aes(x = MCMH_RSLT_HIV, y = n_obs, fill = MCMH_RSLT_HIV)) +
+  theme(axis.text.x = element_text(angle = 90, vjust = .5, hjust = 1)) +
+  geom_bar(stat = "identity") 
+
+
+#Ever used a needle to inject drugs
+federal_df %>% 
+  group_by(DRUG_INJECT_CB) %>% 
+  summarize(n_obs = n()) %>% 
+  ungroup() %>% 
+  ggplot(aes(x = DRUG_INJECT_CB, y = n_obs, fill = DRUG_INJECT_CB)) +
+  geom_bar(stat = "identity") 
+
+```
+
+#Mental Health
+```{r}
+#ever taken a medication for mental health 
+federal_df %>% 
+  group_by(V2409) %>% 
+  summarize(n_obs = n()) %>% 
+  knitr:: kable()
+
+federal_df %>% 
+  group_by(V2409) %>% 
+  summarize(n_obs = n()) %>% 
+   mutate(
+    V2409 = fct_reorder(V2409, n_obs)) %>% 
+  ungroup() %>% 
+  ggplot(aes(x = V2409, y = n_obs, fill = V2409)) +
+  geom_bar(stat = "identity")
+
+# TAKEN MEDICATION FOR A MENTAL CONDITION SINCE ADMISSION
+federal_df %>% 
+  group_by(V2412) %>% 
+  summarize(n_obs = n()) %>% 
+  knitr:: kable()
+
+federal_df %>% 
+  group_by(V2412) %>% 
+  summarize(n_obs = n()) %>% 
+  drop_na() %>% 
+   mutate(
+    V2412 = fct_reorder(V2412, n_obs)) %>% 
+  ungroup() %>% 
+  ggplot(aes(x = V2412, y = n_obs, fill = V2412)) +
+  geom_bar(stat = "identity")
+
+# Mental Hosp - year before arrest - MCMH_mhospyr from client
+federal_df %>% 
+  group_by(MCMH_MHOSPYR) %>% 
+  summarize(n_obs = n()) %>% 
+  knitr:: kable()
+
+federal_df %>% 
+  group_by(MCMH_MHOSPYR) %>% 
+  summarize(n_obs = n()) %>% 
+  filter(MCMH_MHOSPYR %in% c("(0000004) No, never admitted to stayed overnight at mental hospital","(0000001) Yes, admitted to mental hospital during the 12 months before arrest",
+  "(0000002) No, was not admitted to mental hospital during the 12 months before arrest")) %>% 
+  drop_na() %>% 
+   mutate(
+    MCMH_MHOSPYR = fct_reorder(MCMH_MHOSPYR, n_obs)) %>% 
+  ungroup() %>% 
+  ggplot(aes(x = MCMH_MHOSPYR, y = n_obs, fill = MCMH_MHOSPYR)) +
+  geom_bar(stat = "identity")
+
+# Mental hosp - since admission - MCMH_mhospadm from client
+federal_df %>% 
+  group_by(MCMH_MHOSPADM) %>% 
+  summarize(n_obs = n()) %>% 
+  knitr:: kable()
+
+federal_df %>% 
+  group_by(MCMH_MHOSPADM) %>% 
+  summarize(n_obs = n()) %>% 
+    filter(!MCMH_MHOSPADM %in% c("(9999999) Missing","(9999998) DK/refused")) %>% 
+  drop_na() %>% 
+   mutate(
+    MCMH_MHOSPADM = fct_reorder(MCMH_MHOSPADM, n_obs)) %>% 
+  ungroup() %>% 
+  ggplot(aes(x = MCMH_MHOSPADM, y = n_obs, fill = MCMH_MHOSPADM)) +
+  geom_bar(stat = "identity")
+
+
 ```
 
