@@ -46,6 +46,9 @@ state_df <- da04572.0002%>%
 ```
 
 ```{r}
-
+federal_df %>% 
+  group_by(V2288) %>% 
+  summarize(n_obs = n()) %>% 
+  knitr:: kable()
 ```
 
