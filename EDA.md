@@ -1,38 +1,11 @@
----
-title: "Exploratory Data Analysis"
-author: "Allison Randy-Cofie"
-date: "2022-12-01"
-output: github_document
----
-
-```{r setup, include=FALSE}
-library(tidyverse)
-library(mgcv)
-library(modelr)
-
-library(viridis)
-
-knitr::opts_chunk$set(
-	echo = TRUE,
-	warning = FALSE,
-	fig.width = 8, 
-  fig.height = 6,
-  out.width = "90%"
-)
-
-options(
-  ggplot2.continuous.colour = "viridis",
-  ggplot2.continuous.fill = "viridis"
-)
-
-scale_colour_discrete = scale_colour_viridis_d
-scale_fill_discrete = scale_fill_viridis_d
-
-theme_set(theme_minimal() + theme(legend.position = "bottom"))
-```
+Exploratory Data Analysis
+================
+Allison Randy-Cofie
+2022-12-01
 
 ## Importing the datasets
-```{r}
+
+``` r
 federal_df <- load("./data/04572-0001-Data.rda") 
 
 federal_df <- da04572.0001%>% 
@@ -44,8 +17,3 @@ state_df <- load("./data/04572-0002-Data.rda")
 state_df <- da04572.0002%>% 
   select(V2288, V2289, V2290, V2291, MCMH_HIVTEST, MCMH_RSLT_HIV, DRUG_INJECT_CB, V2401, V2402, V2403, V2404, V2405, V2406, V2407, V2409, V2412, MCMH_MH_TREATMENT_PA, MCMH_MH_TREATMENT_AD, MCMH_MENTAL_HISTORY, V1197, CS_SENTENCEMTH,CH_PRIORSENTENCE, CH_PRIORSENTENCE_NUM, CH_CRIMHIST, CH_CRIMHIST_COLLAPSED, CH_NUMCAR,CH_NUMCAR1, CH_NUMCAR2, CH_NUMCAR3, CH_NUMCAR4, CH_NUMCAR5, MOST_SERIOUS_OFFENSE2, TYPEOFFENSE, V1056, V1057, V1060, V1061, V1325, V0001, V0014, AGE_CAT, V2982, V0005, EDUCATION, SES_INCOMEMTH, DRUG_ANY, DRUG_ANYREG, DRUG_ANYMTH, SES_PHYSSEXABUSED_EVER, SES_PARENTS_INCARCERATED, SES_FAMILY_INCARCERATED)
 ```
-
-```{r}
-
-```
-
