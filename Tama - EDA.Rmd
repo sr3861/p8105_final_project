@@ -1,0 +1,171 @@
+---
+title: "Tama - EDA"
+author: "Shritama Ray"
+date: '`r format(Sys.time(), "%Y-%m-%d")`'
+output: github_document
+
+---
+
+```{r setup, include=FALSE}
+library(tidyverse)
+library(ggridges)
+library(patchwork)
+library(broom)
+library(viridis)
+library(reshape2)
+
+knitr::opts_chunk$set(
+	echo = TRUE,
+	warning = FALSE,
+	fig.width = 8, 
+  fig.height = 6,
+  out.width = "90%"
+)
+
+theme_set(theme_minimal() + theme(legend.position = "bottom"))
+
+options(
+  ggplot2.continuous.colour = "viridis",
+  ggplot2.continuous.fill = "viridis"
+)
+
+scale_colour_discrete = scale_colour_viridis_d
+scale_fill_discrete = scale_fill_viridis_d
+```
+
+### Import & Tidy Data:
+```{r import clean}
+
+#Load & select variables of interest
+
+load("./data/04572-0001-Data.rda") 
+
+federal_df <- da04572.0001%>% 
+  select(V2288, V2289, V2290, V2291, MCMH_HIVTEST, MCMH_RSLT_HIV, DRUG_INJECT_CB, V2401, V2402, V2403, V2404, V2405, V2406, V2407, V2409, V2412, MCMH_MH_TREATMENT_PA, MCMH_MH_TREATMENT_AD, MCMH_MENTAL_HISTORY, V1197, CS_SENTENCEMTH,CH_PRIORSENTENCE, CH_PRIORSENTENCE_NUM, CH_CRIMHIST, CH_CRIMHIST_COLLAPSED, CH_NUMCAR,CH_NUMCAR1, CH_NUMCAR2, CH_NUMCAR3, CH_NUMCAR4, CH_NUMCAR5, MOST_SERIOUS_OFFENSE2, TYPEOFFENSE, V1056, V1057, V1060, V1061, V1325, V0001, V0014, AGE_CAT, V2982, V0005, EDUCATION, SES_INCOMEMTH, DRUG_ANY, DRUG_ANYREG, DRUG_ANYMTH, SES_PHYSSEXABUSED_EVER, SES_PARENTS_INCARCERATED, SES_FAMILY_INCARCERATED)
+
+load("./data/04572-0002-Data.rda")
+state_df =
+  da04572.0002 %>%
+  select(V2288, V2289, V2290, V2291, MCMH_HIVTEST, MCMH_RSLT_HIV,DRUG_INJECT_CB,
+         V2401, V2402, V2403, V2404, V2405, V2406, V2407, V2409, V2412, MCMH_MH_TREATMENT_PA, MCMH_MH_TREATMENT_AD, MCMH_MENTAL_HISTORY, MCMH_WHEN_DISORDER, MCMH_WHEN_DISORDER2, MCMH_MHOSPYR, MCMH_MHOSPADM, MCMH_MHOSPYRADM, MCMH_SMI, V1197, CS_SENTENCEMTH, CH_PRIORSENTENCE, CH_PRIORSENTENCE_NUM, CH_CRIMHIST, CH_CRIMHIST_COLLAPSED, CH_NUMCAR, CH_NUMCAR1, CH_NUMCAR2, CH_NUMCAR3, CH_NUMCAR4, CH_NUMCAR5, MOST_SERIOUS_OFFENSE2, TYPEOFFENSE, V1056, V1057, V1060, V1061, V1325, V0001, V0014, AGE_CAT, V2982, V0005, EDUCATION, SES_INCOMEMTH, DRUG_ANY,DRUG_ANYREG,DRUG_ANYMTH, SES_PHYSSEXABUSED_EVER, SES_PARENTS_INCARCERATED, SES_FAMILY_INCARCERATED)
+
+```
+
+### Summary of HIV/Mental Health Diagnoses
+```{r EDA}
+
+#HIV Data Summary:
+
+federal_df %>%
+  group_by(V2288)%>%
+  summarize(n_obs = n())
+#2.673/3,686 federal inmates have been tested for HIV
+
+state_df %>%
+  group_by(V2288)%>%
+  summarize(n_obs = n())
+#9,641/14,499 state inmates have been tested for HIV
+
+federal_df %>%
+  group_by(MCMH_RSLT_HIV)%>%
+  summarize(n_obs = n())
+#35 federal inmates have had at least 1 positive HIV test
+
+state_df %>%
+  group_by(MCMH_RSLT_HIV)%>%
+  summarize(n_obs = n())
+#193 state inmates have had at least 1 positive HIV test
+
+federal_df %>%
+  group_by(MCMH_RSLT_HIV, MCMH_MENTAL_HISTORY)%>%
+  summarize(n_obs = n())
+#6/35 federal inmates with HIV have been told they have some mental health diagnosis
+
+state_df %>%
+  group_by(MCMH_RSLT_HIV, MCMH_MENTAL_HISTORY)%>%
+  summarize(n_obs = n())
+#6/35 federal inmates with HIV have been told they have some health diagnosis
+
+state_df %>%
+  group_by(MCMH_RSLT_HIV)%>%
+  summarise(count = n()) %>%
+  mutate(percent = (count / sum(count))) %>%
+  knitr::kable()
+```
+
+### Relationships between HIV Status and Mental Health
+
+```{r z test}
+#Are mental health disorders more prevalent among those with HIV?
+
+#Federal:
+federal_df %>%
+  group_by(MCMH_RSLT_HIV, MCMH_MENTAL_HISTORY)%>%
+  summarise(count = n()) %>%
+  mutate(percent = (count / sum(count))) %>%
+  knitr::kable()
+#NO; About 17% of inmates with HIV have a mental health disorder while 22% of inmates without HIV have a mental health disorder
+
+#State:
+state_df %>%
+  group_by(MCMH_RSLT_HIV, MCMH_MENTAL_HISTORY)%>%
+  summarise(count = n()) %>%
+  mutate(percent = (count / sum(count))) %>%
+  knitr::kable()
+
+#YES; About 40% of those diagnoses with HIV have a mental health disorder, while about 29% without HIV have a mental health disorder
+
+#Is this difference significance?
+
+#2 proportion z-test
+z_test <- prop.test(x = c(78, 3348), n = c(193, 11399))
+
+z_test$p.value
+
+# The p-value is 0.001135
+```
+
+At a significance level of 0.05, we can REJECT the null hypothesis and conclude that there is a significant difference in the prevalence of mental health disorders between HIV positive vs. HIV negative individuals in the state prison system. 
+
+### Graphs:
+
+```{r graphs}
+
+federal_bar = 
+  federal_df %>%
+  group_by(MCMH_RSLT_HIV, MCMH_MENTAL_HISTORY)%>%
+  summarise(count = n()) %>%
+  mutate(percent = (count / sum(count))) %>%
+      filter(MCMH_RSLT_HIV != "(9999999) Missing",
+           MCMH_MENTAL_HISTORY == "(0000001) Yes") %>%
+  mutate(HIV_status = recode(MCMH_RSLT_HIV, 
+      "(0000001) At least one positive test" = "Positive", 
+      "(0000002) At least one negative and the other unknown" = "Negative")) %>%
+  ggplot(aes(x = HIV_status, y = percent)) +
+  geom_bar(stat = "identity", fill = "steelblue") +
+  labs(title="Federal",
+        x ="HIV Status", y = "Percent with Mental Health Disorder") +
+  ylim(0, 0.5)
+
+state_bar = 
+  state_df %>%
+  group_by(MCMH_RSLT_HIV, MCMH_MENTAL_HISTORY)%>%
+  summarise(count = n()) %>%
+  mutate(percent = (count / sum(count))) %>%
+      filter(MCMH_RSLT_HIV != "(9999999) Missing",
+           MCMH_MENTAL_HISTORY == "(0000001) Yes") %>%
+  mutate(HIV_status = recode(MCMH_RSLT_HIV, 
+      "(0000001) At least one positive test" = "Positive", 
+      "(0000002) At least one negative and the other unknown" = "Negative")) %>%
+  ggplot(aes(x = HIV_status, y = percent)) +
+  geom_bar(stat = "identity", fill = "red") +
+  labs(title="State",
+        x ="HIV Status", y = "Percent with Mental Health Disorder") +
+  ylim(0, 0.5)
+
+#Mental Health Disorder Prevalence by HIV Status at the Federal & State Levels(2004)
+federal_bar + state_bar
+```
+
+
+
